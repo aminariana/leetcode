@@ -1,5 +1,7 @@
 # Sum Divisibles
 
+[![Medium](https://img.shields.io/badge/Difficulty-Medium-Yellow.svg)](https://github.com/aminariana/leetcode)
+
 ## Part 1
 Write a function that returns the sum from 0 to integer `n`.
 ```java
