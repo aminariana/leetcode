@@ -38,4 +38,7 @@ Importantly, if many buildings end on the same x-axis spot, the subsequent drops
 
 I have taken certain liberties to reduce the lines of code because I find the less lines of code, the easier it becomes to read and understand.
 
+Code: 20 lines short read.
+Complexity: Time O(n log n) Space O(n).
+
 ** For those of you familiar with advanced abstractions, using this mapping of data, superimposed height values are now a descreasing monotinic series, which makes them easier to merge using the skyline as the stack.
