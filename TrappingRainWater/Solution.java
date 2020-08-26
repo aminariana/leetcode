@@ -1,7 +1,7 @@
 package TrappingRainWater;
 
 class Solution {
-    public int trap(int[] height) {
+    public static int trap(int[] height) {
         int trapped = 0, l = 0, r = height.length - 1, watermark = 0;
         while(l <= r) {
             if (height[l] <= height[r]) {
