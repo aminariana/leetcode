@@ -1,4 +1,4 @@
-package TrappingRainWater;
+package TrappingRainWater.java;
 
 class Solution {
     public static int trap(int[] height) {
