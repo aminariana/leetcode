@@ -1,6 +1,7 @@
 def trap(height)
-    puts "heloow"
-    trapped = 0, l = 0, r = height.count - 1, watermark = 0
+    l, r = 0, height.count - 1
+    trapped = 0
+    watermark = 0
     while l <= r do
         if (height[l] <= height[r])
             watermark = [watermark, height[l]].max
