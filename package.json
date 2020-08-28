@@ -1,0 +1,23 @@
+{
+  "name": "com.aminariana.leetcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^8.1.2"
+  },
+  "scripts": {
+    "test": "mocha ./**/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aminariana/leetcode.git"
+  },
+  "author": "Amin Ariana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aminariana/leetcode/issues"
+  },
+  "homepage": "https://github.com/aminariana/leetcode#readme"
+}
