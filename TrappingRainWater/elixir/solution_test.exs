@@ -1,4 +1,4 @@
-Code.require_file("TrappingRainWater/solution.exs")
+Code.require_file("./solution.exs")
 
 ExUnit.start
 
