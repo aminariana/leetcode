@@ -3,16 +3,16 @@ package SumDivisibles.java;
 import java.util.List;
 
 public class Solution {
-    public int SumNaturalNumbers(int n) {
+    public static int SumNaturalNumbers(int n) {
         return n * (n+1) / 2;
     }
 
     // e.g. 12, 3 -> 3 + 6 + 9 + 12 -> 3 * (1 + 2 + 3 + 4)
-    public int SumNaturalNumbers(int n, int divider) {
+    public static int SumNaturalNumbers(int n, int divider) {
         return divider * SumNaturalNumbers(n / divider);
     }
     
-    public int SumNaturalNumbers(int n, List<Integer> dividers) {
+    public static int SumNaturalNumbers(int n, List<Integer> dividers) {
         int ret = 0;
         boolean yes = false;
         for(int i = 1; i <= n; i++) {

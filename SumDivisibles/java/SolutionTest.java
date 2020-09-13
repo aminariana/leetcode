@@ -1,35 +1,34 @@
-// package SumDivisibles.java;
+package SumDivisibles.java;
 
-// import org.junit.*;
-// import org.junit.runner.*;
+import static SumDivisibles.java.Solution.SumNaturalNumbers;
+import static org.junit.jupiter.api.Assertions.assertEquals;
+import java.util.List;
 
-// public class SolutionTest {
-//     public static void main(String[] args) {
-//         JUnitCore.main("Solution");
-//     }
-    
-//     @Test
-//     public void testSumsNaturalNumbersLTE10() {
-//         Assert.assertEquals(55, SumNaturalNumbers(10));
-//     }
+import org.junit.jupiter.api.Test;
 
-//     @Test
-//     public void testSumsNaturalNumbersLTE97() {
-//         Assert.assertEquals(4753, SumNaturalNumbers(97));
-//     }
+public class SolutionTest {
+    @Test
+    void testSumsNaturalNumbersLTE10() {
+        assertEquals(55, SumNaturalNumbers(10));
+    }
 
-//     @Test
-//     public void testSumsNaturalNumbersThatAreMultiplesOf3AndLTE12() {
-//         Assert.assertEquals(30, SumNaturalNumbers(12, 3));
-//     }
+    @Test
+    void testSumsNaturalNumbersLTE97() {
+        assertEquals(4753, SumNaturalNumbers(97));
+    }
 
-//     @Test
-//     public void testSumsNaturalNumbersThatAreMultiplesOf3Or5Or7Or44AndLTE1000() {
-//         Assert.assertEquals(277038, SumNaturalNumbers(1000, ImmutableList.of(3, 5, 7, 44)));
-//     }
+    @Test
+    void testSumsNaturalNumbersThatAreMultiplesOf3AndLTE12() {
+        assertEquals(30, SumNaturalNumbers(12, 3));
+    }
 
-//     @Test
-//     public void test() {
-//         Assert.assertEquals(60, SumNaturalNumbers(15, ImmutableList.of(3, 5)));
-//     }
-// }
+    @Test
+    void testSumsNaturalNumbersThatAreMultiplesOf3Or5AndLTE15() {
+        assertEquals(60, SumNaturalNumbers(15, List.of(3, 5)));
+    }
+
+    @Test
+    void testSumsNaturalNumbersThatAreMultiplesOf3Or5Or7Or44AndLTE1000() {
+        assertEquals(277038, SumNaturalNumbers(1000, List.of(3, 5, 7, 44)));
+    }
+}
