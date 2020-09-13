@@ -6,8 +6,9 @@ defmodule TrappingRainWater do
   end
 
   def trap(height, watermark, trapped) do
-    [first|tail] = height
+    [first | tail] = height
     last = List.last(height)
+
     if first > last do
       trap(Enum.reverse(height), watermark, trapped)
     else
