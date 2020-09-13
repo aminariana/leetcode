@@ -1,4 +1,4 @@
-// package SumDivisibles;
+// package SumDivisibles.java;
 
 // import org.junit.*;
 // import org.junit.runner.*;

@@ -1,4 +1,4 @@
-package SumDivisibles;
+package SumDivisibles.java;
 
 import java.util.List;
 
