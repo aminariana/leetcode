@@ -1,4 +1,4 @@
-package Easy.KidsWithCandies.java;
+package KidsWithCandies.java;
 
 import java.util.ArrayList;
 import java.util.List;

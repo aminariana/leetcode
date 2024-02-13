@@ -1,4 +1,4 @@
-package Easy.KidsWithCandies.java;
+package KidsWithCandies.java;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
