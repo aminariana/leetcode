@@ -1,7 +1,15 @@
 # Tech Interview problems, solutions and explanations
-* **What** I'm collecting all my past LeetCode solutions here.
-* **Why** So that I surprise myself with how much smarter I am than when I'm under the 45 minute gun in an interview. You should do this too! It helps feel good.
-* **How** Click on a problem folder to see its description, solution and explanation. The solution may appear in multiple languages, just for fun.
+**Summary**
+
+I'm collecting all my past LeetCode solutions here.
+
+**Motivation**
+
+So that I surprise myself with how performant I can be when I'm not under the 45 minute time gun in an interview. You should do this too! It helps feel good.
+
+**Approach**
+
+Follow each problem link to to see its description, solution and explanation. The solution may appear in multiple languages, just for fun.
 
 # Problem category
 ## Array / String
@@ -30,6 +38,15 @@
 ## Intervals
 ## Monotonic Stack
 ## Other / Unclassified
+### Hard
+- [Count of Numbers After Self](CountOfNumbersAfterSelf)
+- [Longest Consecutive Sequence](LongestConsecutiveSequence)
+- [Minimum Window Substring](MinimumWindowSubstring)
+- [Skyline](Skyline)
+- [Sliding Window Maximum](SlidingWindowMaximum)
+- [Sum Divisibles](SumDivisibles)
+- [Trapping Rain Water](TrappingRainWater)
+- [Wildcard Matching](WildcardMatching)
 
 # Legend
 You will find these badges on top of each problem page:
