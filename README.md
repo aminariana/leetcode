@@ -17,6 +17,8 @@ Follow each problem link to to see its description, solution and explanation. Th
 3. [Kids with the Greatest Number of Candies](/KidsWithCandies)
 4. [Can Place Flowers](/CanPlaceFlowers)
 ## Two Pointers
+### Medium
+2. [Max Number of K-sum Pairs](/MaxNumberOfKSumPairs)
 ## Sliding Window
 ## Prefix Sum
 ## Hashmap / Set
