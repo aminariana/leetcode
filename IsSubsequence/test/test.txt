@@ -1,0 +1,10 @@
+< "abc", "ahbgdc"
+> true
+< "axc", "ahbgdc"
+> false
+< "", "ahbgdc"
+> true
+< "abc", "abc"
+> true
+< "abcd", "abc"
+> false

@@ -19,6 +19,7 @@ Follow each problem link to to see its description, solution and explanation. Th
 ## Two Pointers
 ### Easy
 1. [Move Zeroes](/MoveZeroes)
+2. [Is Subsequence](/IsSubsequence)
 ### Medium
 2. [Max Number of K-sum Pairs](/MaxNumberOfKSumPairs)
 ## Sliding Window
