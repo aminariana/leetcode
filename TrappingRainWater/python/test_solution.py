@@ -1,5 +1,5 @@
 import pytest
-from . import solution
+from TrappingRainWater.python import solution
 
 class TestSolution:
     def test_empty(self):

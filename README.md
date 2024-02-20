@@ -26,6 +26,8 @@ Follow each problem link to to see its description, solution and explanation. Th
 ## Sliding Window
 ## Prefix Sum
 ## Hashmap / Set
+### Easy
+1. [Find the Difference of Two Arrays](/FindTheDifferenceOfTwoArrays/)
 ## Stack
 ## Queue
 ## Linked List
