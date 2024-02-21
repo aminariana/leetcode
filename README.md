@@ -1,14 +1,11 @@
 # Tech Interview problems, solutions and explanations
-**Summary**
+### Summary
+A collection of my past LeetCode solutions to practice various programming languages.
 
-I'm collecting all my past LeetCode solutions here.
-
-**Motivation**
-
+#### Motivation
 So that I surprise myself with how performant I can be when I'm not under the 45 minute time gun in an interview. You should do this too! It helps feel good.
 
-**Approach**
-
+#### Approach
 Follow each problem link to to see its description, solution and explanation. The solution may appear in multiple languages, just for fun.
 
 # Problem category
@@ -16,6 +13,8 @@ Follow each problem link to to see its description, solution and explanation. Th
 ### Easy
 3. [Kids with the Greatest Number of Candies](/KidsWithCandies)
 4. [Can Place Flowers](/CanPlaceFlowers)
+### Medium
+4. [String Compression](/StringCompression)
 ## Two Pointers
 ### Easy
 1. [Move Zeroes](/MoveZeroes)
