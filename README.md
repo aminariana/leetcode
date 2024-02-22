@@ -41,6 +41,8 @@ Follow each problem link to to see its description, solution and explanation. Th
 ## Binary Search
 ## Backtracking
 ## Dynamic Programming 1D
+### Easy
+2. [Min Cost Climbing Stairs](/MinCostClimbingStairs)
 ## Dynamic Programming 2D
 ## Bit Manipulation
 ## Trie
