@@ -42,6 +42,7 @@ Follow each problem link to to see its description, solution and explanation. Th
 ## Backtracking
 ## Dynamic Programming 1D
 ### Easy
+1. [Nth Tribonacci Number](/NthTribonacciNumber)
 2. [Min Cost Climbing Stairs](/MinCostClimbingStairs)
 ## Dynamic Programming 2D
 ## Bit Manipulation
