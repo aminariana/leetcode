@@ -8,8 +8,8 @@ class TestTribonacci:
     def test_zero(self):
         assert 0 == nth_tribonacci_number.tribonacci(0)
 
-    def test_twenty_four(self):
-        assert 755476 == nth_tribonacci_number.tribonacci(24)
+    def test_twenty_five(self):
+        assert 1389537 == nth_tribonacci_number.tribonacci(25)
 
     def test_thirty_seven(self):
         assert 2082876103 == nth_tribonacci_number.tribonacci(37)
