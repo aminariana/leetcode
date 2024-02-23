@@ -44,6 +44,8 @@ Follow each problem link to to see its description, solution and explanation. Th
 ### Easy
 1. [Nth Tribonacci Number](/NthTribonacciNumber)
 2. [Min Cost Climbing Stairs](/MinCostClimbingStairs)
+### Medium
+1. [House Robber](/HouseRobber)
 ## Dynamic Programming 2D
 ## Bit Manipulation
 ## Trie
