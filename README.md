@@ -28,6 +28,8 @@ Follow each problem link to to see its description, solution and explanation. Th
 ### Easy
 1. [Find the Difference of Two Arrays](/FindTheDifferenceOfTwoArrays/)
 2. [Unique Number Of Occurrences](/UniqueNumberOfOccurrences)
+### Medium
+1. [Determine If Two Strings Are Close](/DetermineIfTwoStringsAreClose)
 ## Stack
 ## Queue
 ## Linked List
