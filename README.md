@@ -37,6 +37,7 @@ Follow each problem link to to see its description, solution and explanation. Th
 1. [Reverse Linked List](ReverseLinkedList)
 ### Medium
 1. [Delete The middle Node of a Linked List](/DeleteTheMiddleNodeOfALinkedList)
+2. [Odd Even Linked List](/OddEvenLinkedList)
 ## Binary Tree / DFS
 ## Binary Tree / BFS
 ## Binary Search Tree

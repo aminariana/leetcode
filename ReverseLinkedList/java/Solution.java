@@ -1,5 +1,7 @@
 package ReverseLinkedList.java;
 
+import Common.java.ListNode;
+
 class Solution {
   public static ListNode reverseList(ListNode head) {
     ListNode reversed = null;
