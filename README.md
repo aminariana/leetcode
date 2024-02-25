@@ -1,9 +1,6 @@
 # Tech Interview problems, solutions and explanations
 ### Summary
-A collection of my past LeetCode solutions to practice various programming languages.
-
-#### Motivation
-So that I surprise myself with how performant I can be when I'm not under the 45 minute time gun in an interview. You should do this too! It helps feel good.
+A collection of LeetCode solutions to practice various programming languages, mainly `java` `python` sometimes `ruby` `kotlin`
 
 #### Approach
 Follow each problem link to to see its description, solution and explanation. The solution may appear in multiple languages, just for fun.
@@ -33,11 +30,14 @@ Follow each problem link to to see its description, solution and explanation. Th
 ## Stack
 ## Queue
 ## Linked List
-### Easy
-1. [Reverse Linked List](ReverseLinkedList)
-### Medium
-1. [Delete The middle Node of a Linked List](/DeleteTheMiddleNodeOfALinkedList)
-2. [Odd Even Linked List](/OddEvenLinkedList)
+
+| Linked List | Difficulty |
+| ------------- | ------------- |
+| [Reverse Linked List](ReverseLinkedList)  | Easy |
+| [Delete The middle Node of a Linked List](/DeleteTheMiddleNodeOfALinkedList)  | Medium |
+| [Odd Even Linked List](/OddEvenLinkedList) | Medium |
+| *Maximum Twin Sum of a Linked List* | Medium |
+
 ## Binary Tree / DFS
 ## Binary Tree / BFS
 ## Binary Search Tree
