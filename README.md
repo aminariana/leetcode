@@ -20,6 +20,12 @@ Follow each problem link to to see its description, solution and explanation. Th
 | [Container With Most Water](/ContainerWithMostWater)  | Medium |
 | [Max Number of K-sum Pairs](/MaxNumberOfKSumPairs)    | Medium |
 ## Sliding Window
+| Sliding Window | Difficulty |
+| ------------- | ------------- |
+| *Maximum Average Subarray I* | Easy |
+| [Maximum Number Of Vowels In A Substring Of Given Length](/MaximumNumberOfVowelsInASubstringOfGivenLength/) | Medium |
+| *Max Consecutive Ones III* | Medium |
+| *Longest Subarray of 1's After Deleting One Element* | Medium |
 ## Prefix Sum
 ## Hashmap / Set
 | Hashmap / Set | Difficulty |
