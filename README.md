@@ -13,30 +13,31 @@ Follow each problem link to to see its description, solution and explanation. Th
 ### Medium
 4. [String Compression](/StringCompression)
 ## Two Pointers
-### Easy
-1. [Move Zeroes](/MoveZeroes)
-2. [Is Subsequence](/IsSubsequence)
-### Medium
-1. [Container With Most Water](/ContainerWithMostWater)
-2. [Max Number of K-sum Pairs](/MaxNumberOfKSumPairs)
+| Two Pointers  | Difficulty |
+| ------------- | ------------- |
+| [Move Zeroes](/MoveZeroes)                            | Easy |
+| [Is Subsequence](/IsSubsequence)                      | Easy |
+| [Container With Most Water](/ContainerWithMostWater)  | Medium |
+| [Max Number of K-sum Pairs](/MaxNumberOfKSumPairs)    | Medium |
 ## Sliding Window
 ## Prefix Sum
 ## Hashmap / Set
-### Easy
-1. [Find the Difference of Two Arrays](/FindTheDifferenceOfTwoArrays/)
-2. [Unique Number Of Occurrences](/UniqueNumberOfOccurrences)
-### Medium
-1. [Determine If Two Strings Are Close](/DetermineIfTwoStringsAreClose)
+| Hashmap / Set | Difficulty |
+| ------------- | ------------- |
+| [Find the Difference of Two Arrays](/FindTheDifferenceOfTwoArrays/)   | Easy |
+| [Unique Number Of Occurrences](/UniqueNumberOfOccurrences)            | Easy |
+| [Determine If Two Strings Are Close](/DetermineIfTwoStringsAreClose)  | Medium |
+| *Equal Row and Column Pairs*                                          | Medium |
+
 ## Stack
 ## Queue
 ## Linked List
-
 | Linked List | Difficulty |
 | ------------- | ------------- |
-| [Reverse Linked List](ReverseLinkedList)  | Easy |
+| [Reverse Linked List](ReverseLinkedList)                                      | Easy |
 | [Delete The middle Node of a Linked List](/DeleteTheMiddleNodeOfALinkedList)  | Medium |
-| [Odd Even Linked List](/OddEvenLinkedList) | Medium |
-| *Maximum Twin Sum of a Linked List* | Medium |
+| [Odd Even Linked List](/OddEvenLinkedList)                                    | Medium |
+| *Maximum Twin Sum of a Linked List*                                           | Medium |
 
 ## Binary Tree / DFS
 ## Binary Tree / BFS
@@ -46,13 +47,21 @@ Follow each problem link to to see its description, solution and explanation. Th
 ## Heap / Priority Queue
 ## Binary Search
 ## Backtracking
-## Dynamic Programming 1D
-### Easy
-1. [Nth Tribonacci Number](/NthTribonacciNumber)
-2. [Min Cost Climbing Stairs](/MinCostClimbingStairs)
-### Medium
-1. [House Robber](/HouseRobber)
-2. [Domino and Tromino Tiling](/DominoAndTrominoTiling)
+## Dynamic Programming
+| 1 Dimensional | Difficulty |
+| ------------- | ------------- |
+| [Nth Tribonacci Number](/NthTribonacciNumber)         | Easy |
+| [Min Cost Climbing Stairs](/MinCostClimbingStairs)    | Easy |
+| [House Robber](/HouseRobber)                          | Medium |
+| [Domino and Tromino Tiling](/DominoAndTrominoTiling)  | Medium |
+
+| Multi Dimensional | Difficulty |
+| ------------- | ------------- |
+| *Unique Paths*                                                    | Medium |
+| *Longest Common Subsequence*                                      | Medium |
+| *Best Time to Buy and Sell Stock with Transaction Fee*            | Medium |
+| *Edit Distance*                                                   | Medium |
+
 ## Dynamic Programming 2D
 ## Bit Manipulation
 ## Trie
