@@ -62,7 +62,6 @@ Follow each problem link to to see its description, solution and explanation. Th
 | *Best Time to Buy and Sell Stock with Transaction Fee*            | Medium |
 | *Edit Distance*                                                   | Medium |
 
-## Dynamic Programming 2D
 ## Bit Manipulation
 ## Trie
 ## Intervals
