@@ -22,7 +22,7 @@ Follow each problem link to to see its description, solution and explanation. Th
 ## Sliding Window
 | Sliding Window | Difficulty |
 | ------------- | ------------- |
-| *Maximum Average Subarray I* | Easy |
+| [Maximum Average Subarray I](/MaximumAverageSubarrayI/) | Easy |
 | [Maximum Number Of Vowels In A Substring Of Given Length](/MaximumNumberOfVowelsInASubstringOfGivenLength/) | Medium |
 | *Max Consecutive Ones III* | Medium |
 | *Longest Subarray of 1's After Deleting One Element* | Medium |
