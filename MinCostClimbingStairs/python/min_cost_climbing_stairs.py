@@ -1,6 +1,6 @@
 from typing import List
 
-def minCostClimbingStairs(self, cost: List[int]) -> int:
+def minCostClimbingStairs(cost: List[int]) -> int:
     # s: cumulative cost of step. prev is previous step
     prev, s = 0, 0
     # iterative DP - take one step at a time
