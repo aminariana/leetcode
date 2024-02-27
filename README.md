@@ -10,11 +10,11 @@ Follow each problem link to to see its description, solution and explanation. Th
 | Array / String  | Difficulty |
 | ------------- | ------------- |
 | [Merge Strings Alternately](/MergeStringsAlternately/)        | Easy |
+| *Greatest Common Divisor of Strings* | Easy |
+| [Kids with the Greatest Number of Candies](/KidsWithCandies)  | Easy |
 
 | TODO in Python  | Difficulty |
 | ------------- | ------------- |
-| *Greatest Common Divisor of Strings* | Easy |
-| [Kids with the Greatest Number of Candies](/KidsWithCandies)  | Easy |
 | [Can Place Flowers](/CanPlaceFlowers)                         | Easy |
 | *Reverse Vowels of a String*                                  | Easy |
 | *Reverse Words in a String*                                   | Medium |
