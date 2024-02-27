@@ -7,11 +7,21 @@ Follow each problem link to to see its description, solution and explanation. Th
 
 # Problem category
 ## Array / String
-### Easy
-3. [Kids with the Greatest Number of Candies](/KidsWithCandies)
-4. [Can Place Flowers](/CanPlaceFlowers)
-### Medium
-4. [String Compression](/StringCompression)
+| Array / String  | Difficulty |
+| ------------- | ------------- |
+| [Merge Strings Alternately](/MergeStringsAlternately/)        | Easy |
+
+| TODO in Python  | Difficulty |
+| ------------- | ------------- |
+| *Greatest Common Divisor of Strings* | Easy |
+| [Kids with the Greatest Number of Candies](/KidsWithCandies)  | Easy |
+| [Can Place Flowers](/CanPlaceFlowers)                         | Easy |
+| *Reverse Vowels of a String*                                  | Easy |
+| *Reverse Words in a String*                                   | Medium |
+| *Product of Array Except Self*                                | Medium |
+| *Increasing Triplet Subsequence*                              | Medium |
+| [String Compression](/StringCompression)                      | Medium |
+
 ## Two Pointers
 | Two Pointers  | Difficulty |
 | ------------- | ------------- |
