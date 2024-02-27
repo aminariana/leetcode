@@ -9,9 +9,9 @@ Follow each problem link to to see its description, solution and explanation. Th
 ## Array / String
 | Array / String  | Difficulty |
 | ------------- | ------------- |
-| [Merge Strings Alternately](/MergeStringsAlternately/)        | Easy |
-| *Greatest Common Divisor of Strings* | Easy |
-| [Kids with the Greatest Number of Candies](/KidsWithCandies)  | Easy |
+| [Merge Strings Alternately](/MergeStringsAlternately/)                    | Easy |
+| [Greatest Common Divisor of Strings](/GreatestCommonDivisorOfStrings/)    | Easy* |
+| [Kids with the Greatest Number of Candies](/KidsWithCandies)              | Easy |
 
 | TODO in Python  | Difficulty |
 | ------------- | ------------- |
@@ -99,3 +99,5 @@ You will find these badges on top of each problem page:
 [![Easy](https://img.shields.io/badge/Difficulty-Easy-Green.svg)](https://github.com/aminariana/leetcode)
 [![Medium](https://img.shields.io/badge/Difficulty-Medium-Yellow.svg)](https://github.com/aminariana/leetcode)
 [![Hard](https://img.shields.io/badge/Difficulty-Hard-Red.svg)](https://github.com/aminariana/leetcode)
+
+\* Asterisk indicates disputed difficulty.
