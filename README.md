@@ -25,7 +25,7 @@ Follow each problem link to to see its description, solution and explanation. Th
 | [Maximum Average Subarray I](/MaximumAverageSubarrayI/) | Easy |
 | [Maximum Number Of Vowels In A Substring Of Given Length](/MaximumNumberOfVowelsInASubstringOfGivenLength/) | Medium |
 | [Max Consecutive Ones III](/MaxConsecutiveOnes/) | Medium |
-| *Longest Subarray of 1's After Deleting One Element* | Medium |
+| [Longest Subarray of 1's After Deleting One Element](/LongestSubarrayOfOnesAfterDeletingOneElement/) | Medium |
 ## Prefix Sum
 ## Hashmap / Set
 | Hashmap / Set | Difficulty |
