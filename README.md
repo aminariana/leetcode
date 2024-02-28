@@ -43,6 +43,12 @@ Follow each problem link to to see its description, solution and explanation. Th
 | *Equal Row and Column Pairs*                                          | Medium |
 
 ## Stack
+| Stack | Difficulty |
+| ------------- | ------------- |
+| [Removing Stars from a String](/RemovingStarsFromAString/)   | Medium* |
+| *Asteroid Collision*                                         | Medium |
+| *Decode String*                                              | Medium |
+
 ## Queue
 ## Linked List
 | Linked List | Difficulty |
