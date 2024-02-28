@@ -12,11 +12,8 @@ Follow each problem link to to see its description, solution and explanation. Th
 | [Merge Strings Alternately](/MergeStringsAlternately/)                    | Easy |
 | [Greatest Common Divisor of Strings](/GreatestCommonDivisorOfStrings/)    | Easy* |
 | [Kids with the Greatest Number of Candies](/KidsWithCandies)              | Easy |
-| [Can Place Flowers](/CanPlaceFlowers)                         | Easy |
-
-| TODO in Python  | Difficulty |
-| ------------- | ------------- |
-| *Reverse Vowels of a String*                                  | Easy |
+| [Can Place Flowers](/CanPlaceFlowers)                                     | Easy |
+| [Reverse Vowels of a String](/ReverseVowelsOfAString/)                    | Easy |
 | *Reverse Words in a String*                                   | Medium |
 | *Product of Array Except Self*                                | Medium |
 | *Increasing Triplet Subsequence*                              | Medium |
