@@ -14,7 +14,7 @@ Follow each problem link to to see its description, solution and explanation. Th
 | [Kids with the Greatest Number of Candies](/KidsWithCandies)              | Easy |
 | [Can Place Flowers](/CanPlaceFlowers)                                     | Easy |
 | [Reverse Vowels of a String](/ReverseVowelsOfAString/)                    | Easy |
-| *Reverse Words in a String*                                   | Medium |
+| [Reverse Words in a String](/ReverseWordsInAString/)                      | Medium |
 | *Product of Array Except Self*                                | Medium |
 | *Increasing Triplet Subsequence*                              | Medium |
 | [String Compression](/StringCompression)                      | Medium |
