@@ -45,9 +45,9 @@ Follow each problem link to to see its description, solution and explanation. Th
 ## Stack
 | Stack | Difficulty |
 | ------------- | ------------- |
-| [Removing Stars from a String](/RemovingStarsFromAString/)   | Medium* |
-| *Asteroid Collision*                                         | Medium |
-| *Decode String*                                              | Medium |
+| [Removing Stars from a String](/RemovingStarsFromAString/)    | Medium* |
+| [Asteroid Collision](/AsteroidCollision/)                     | Medium |
+| *Decode String*                                               | Medium |
 
 ## Queue
 ## Linked List
