@@ -61,6 +61,10 @@ Follow each problem link to to see its description, solution and explanation. Th
 ## Binary Tree / DFS
 ## Binary Tree / BFS
 ## Binary Search Tree
+| Binary Search Tree | Difficulty |
+| ------------- | ------------- |
+| [Search in a Binary Search Tree](/SearchInABinarySearchTree/)                                      | Easy |
+
 ## Graph - DFS
 ## Graph - BFS
 ## Heap / Priority Queue
