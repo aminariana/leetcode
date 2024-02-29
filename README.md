@@ -47,7 +47,7 @@ Follow each problem link to to see its description, solution and explanation. Th
 | ------------- | ------------- |
 | [Removing Stars from a String](/RemovingStarsFromAString/)    | Medium* |
 | [Asteroid Collision](/AsteroidCollision/)                     | Medium |
-| *Decode String*                                               | Medium |
+| [Decode String](/DecodeString/)                               | Medium |
 
 ## Queue
 ## Linked List
