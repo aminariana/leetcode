@@ -63,7 +63,8 @@ Follow each problem link to to see its description, solution and explanation. Th
 ## Binary Search Tree
 | Binary Search Tree | Difficulty |
 | ------------- | ------------- |
-| [Search in a Binary Search Tree](/SearchInABinarySearchTree/)                                      | Easy |
+| [Search in a Binary Search Tree](/SearchInABinarySearchTree/) | Easy |
+| [*Delete Node in a BST*]                                      | Medium |
 
 ## Graph - DFS
 ## Graph - BFS
