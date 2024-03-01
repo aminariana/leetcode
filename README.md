@@ -64,7 +64,7 @@ Follow each problem link to to see its description, solution and explanation. Th
 | Binary Search Tree | Difficulty |
 | ------------- | ------------- |
 | [Search in a Binary Search Tree](/SearchInABinarySearchTree/) | Easy |
-| [*Delete Node in a BST*]                                      | Medium |
+| [Delete Node in a BST](/DeleteNodeInBST/)                     | Medium |
 
 ## Graph - DFS
 ## Graph - BFS

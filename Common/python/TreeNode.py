@@ -15,29 +15,32 @@ def tree_to_list(root: TreeNode) -> List[int]:
         q = deque([root])
         while len(q):
             pop = q.popleft()
-            list.append(pop.val)
-            if pop.left:
-                q.append(pop.left)            
-            if pop.right:
-                q.append(pop.right)
+            if pop:
+                list.append(pop.val)
+                if pop.left or pop.right:
+                    q.append(pop.left)            
+                    q.append(pop.right)
+            else:
+                list.append(None)
     return list
 
 def tree_from_list(list: List[int]) -> TreeNode:
     if not list:
         return None
-    root = None
-    q = deque()
-    for val in list:
-        valNode = TreeNode(val) if val else None
-        if len(q):
-            current = q[0]
-            if not current.left:
-                current.left = valNode
-            elif not current.right:
-                current.right = valNode
-                q.popleft() # current is filled up and done
-        if valNode:    
-            q.append(valNode)
-        if not root:
-            root = valNode
+    if len(list) == 0:
+        return []
+    root = TreeNode(list[0]) if list[0] else None
+    q = deque([root])
+    i = 1
+    while i < len(list) and len(q):
+        current = q.popleft()
+        if i < len(list):
+            current.left = TreeNode(list[i]) if list[i] else None
+            i += 1
+        if i < len(list):
+            current.right = TreeNode(list[i]) if list[i] else None
+            i += 1
+        if current.left or current.right:
+            q.append(current.left)
+            q.append(current.right)
     return root
