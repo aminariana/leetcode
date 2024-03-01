@@ -50,6 +50,11 @@ Follow each problem link to to see its description, solution and explanation. Th
 | [Decode String](/DecodeString/)                               | Medium |
 
 ## Queue
+| Queue | Difficulty |
+| ------------- | ------------- |
+| [Number of Recent Calls](/NumberOfRecentCalls/)   | Easy |
+| [Dota2 Senate]                                    | Medium |
+
 ## Linked List
 | Linked List | Difficulty |
 | ------------- | ------------- |
