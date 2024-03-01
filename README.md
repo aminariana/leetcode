@@ -53,7 +53,7 @@ Follow each problem link to to see its description, solution and explanation. Th
 | Queue | Difficulty |
 | ------------- | ------------- |
 | [Number of Recent Calls](/NumberOfRecentCalls/)   | Easy |
-| [Dota2 Senate]                                    | Medium |
+| [Dota2 Senate](/Dota2Senate/)                     | Medium |
 
 ## Linked List
 | Linked List | Difficulty |
