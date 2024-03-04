@@ -67,7 +67,7 @@ Follow each problem link to to see its description, solution and explanation. Th
 | Depth-First Search (DFS) | Difficulty |
 | ------------- | ------------- |
 | [Maximum Depth of Binary Tree](/MaximumDepthOfBinaryTree/)    | Easy |
-| [Leaf-similar Trees]                                          | Easy |
+| [Leaf-similar Trees](/LeafSimilarTrees/)                      | Easy |
 | [Count Good Nodes in Binary Tree]                             | Medium |
 | [Path Sum III]                                                | Medium |
 | [Longest ZigZag Path in a Binary Tree]                        | Medium |
