@@ -63,10 +63,22 @@ Follow each problem link to to see its description, solution and explanation. Th
 | [Odd Even Linked List](/OddEvenLinkedList)                                    | Medium |
 | *Maximum Twin Sum of a Linked List*                                           | Medium |
 
-## Binary Tree / DFS
-## Binary Tree / BFS
-## Binary Search Tree
-| Binary Search Tree | Difficulty |
+## Binary Tree
+| Depth-First Search (DFS) | Difficulty |
+| ------------- | ------------- |
+| [Maximum Depth of Binary Tree](/MaximumDepthOfBinaryTree/)    | Easy |
+| [Leaf-similar Trees]                                          | Easy |
+| [Count Good Nodes in Binary Tree]                             | Medium |
+| [Path Sum III]                                                | Medium |
+| [Longest ZigZag Path in a Binary Tree]                        | Medium |
+| [Lowest Common Ancestor of a Binary Tree]                     | Medium |
+
+| Breadth-First Search (BFS) | Difficulty |
+| ------------- | ------------- |
+| [Binary Tree Right Side View]         | Medium |
+| [Maximum Level Sum of a Binary Tree]  | Medium |
+
+| Binary Search (BST) | Difficulty |
 | ------------- | ------------- |
 | [Search in a Binary Search Tree](/SearchInABinarySearchTree/) | Easy |
 | [Delete Node in a BST](/DeleteNodeInBST/)                     | Medium |
