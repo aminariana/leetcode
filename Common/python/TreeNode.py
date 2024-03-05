@@ -27,20 +27,20 @@ def tree_to_list(root: TreeNode) -> List[int]:
 def tree_from_list(list: List[int]) -> TreeNode:
     if not list:
         return None
-    if len(list) == 0:
-        return []
-    root = TreeNode(list[0]) if list[0] else None
+    if not len(list):
+        return list
+    root = TreeNode(list[0]) if list[0] != None else None
     q = deque([root])
     i = 1
     while i < len(list) and len(q):
-        current = q.popleft()
-        if i < len(list):
-            current.left = TreeNode(list[i]) if list[i] else None
-            i += 1
-        if i < len(list):
-            current.right = TreeNode(list[i]) if list[i] else None
-            i += 1
-        if current.left or current.right:
-            q.append(current.left)
-            q.append(current.right)
+        if current := q.popleft():
+            if i < len(list):
+                current.left = TreeNode(list[i]) if list[i] != None else None
+                i += 1
+            if i < len(list):
+                current.right = TreeNode(list[i]) if list[i] != None else None
+                i += 1
+            if current.left or current.right:
+                q.append(current.left)
+                q.append(current.right)
     return root

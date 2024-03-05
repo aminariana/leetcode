@@ -32,10 +32,25 @@ class TestTreeNode:
         assert 3 == root.right.val
         assert [1, None, 3] == tree_to_list(root)
 
-    def test_from_list_of_single(self):
+    def test_from_list_of_none(self):
+        root = tree_from_list([None])
+        assert None == root.val
+        assert [None] == tree_to_list(root)
+
+    def test_from_list_of_one(self):
         root = tree_from_list([1])
         assert 1 == root.val
         assert [1] == tree_to_list(root)
+
+    def test_from_list_of_zero(self):
+        root = tree_from_list([0])
+        assert 0 == root.val
+        assert [0] == tree_to_list(root)
+
+    def test_from_list_of_negative_one(self):
+        root = tree_from_list([-1])
+        assert -1 == root.val
+        assert [-1] == tree_to_list(root)
 
     def test_from_list_of_empty(self):
         root = tree_from_list([])
@@ -78,3 +93,10 @@ class TestTreeNode:
         assert 2 == root.left.val
         assert None == root.right
         assert [1, 2, None] == tree_to_list(root)
+    
+    def test_positive_and_zero_and_negative(self):
+        root = tree_from_list([1,1,0,7,-8,-7,9])
+        assert 1 == root.val
+        assert 1 == root.left.val
+        assert 0 == root.right.val
+        assert [1,1,0,7,-8,-7,9] == tree_to_list(root)
