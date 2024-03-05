@@ -75,7 +75,7 @@ Follow each problem link to to see its description, solution and explanation. Th
 
 | Breadth-First Search (BFS) | Difficulty |
 | ------------- | ------------- |
-| [Binary Tree Right Side View]         | Medium |
+| [Binary Tree Right Side View](/BinaryTreeRightSideView/)          | Medium |
 | [Maximum Level Sum of a Binary Tree]  | Medium |
 
 | Binary Search (BST) | Difficulty |
