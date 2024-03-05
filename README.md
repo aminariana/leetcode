@@ -66,12 +66,12 @@ Follow each problem link to to see its description, solution and explanation. Th
 ## Binary Tree
 | Depth-First Search (DFS) | Difficulty |
 | ------------- | ------------- |
-| [Maximum Depth of Binary Tree](/MaximumDepthOfBinaryTree/)    | Easy |
-| [Leaf-similar Trees](/LeafSimilarTrees/)                      | Easy |
-| [Count Good Nodes in Binary Tree]                             | Medium |
-| [Path Sum III]                                                | Medium |
-| [Longest ZigZag Path in a Binary Tree]                        | Medium |
-| [Lowest Common Ancestor of a Binary Tree]                     | Medium |
+| [Maximum Depth of Binary Tree](/MaximumDepthOfBinaryTree/)        | Easy |
+| [Leaf-similar Trees](/LeafSimilarTrees/)                          | Easy |
+| [Count Good Nodes in Binary Tree](/CountGoodNodesInBinaryTree/)   | Medium |
+| [Path Sum III]                                                    | Medium |
+| [Longest ZigZag Path in a Binary Tree]                            | Medium |
+| [Lowest Common Ancestor of a Binary Tree]                         | Medium |
 
 | Breadth-First Search (BFS) | Difficulty |
 | ------------- | ------------- |
