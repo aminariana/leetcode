@@ -87,7 +87,7 @@ Follow each problem link to to see its description, solution and explanation. Th
 | Depth-First Search (DFS) | Difficulty |
 | ------------- | ------------- |
 | [Keys and Rooms](/KeysAndRooms/)                          | Medium |
-| [Number of Provinces]                                     | Medium |
+| [Number of Provinces](/NumberOfProvinces/)                | Medium |
 | [Reorder Routes to Make All Paths Lead to the City Zero]  | Medium |
 | [Evaluate Division]                                       | Medium |
 
