@@ -83,8 +83,19 @@ Follow each problem link to to see its description, solution and explanation. Th
 | [Search in a Binary Search Tree](/SearchInABinarySearchTree/) | Easy |
 | [Delete Node in a BST](/DeleteNodeInBST/)                     | Medium |
 
-## Graph - DFS
-## Graph - BFS
+## Graphs
+| Depth-First Search (DFS) | Difficulty |
+| ------------- | ------------- |
+| [Keys and Rooms](/KeysAndRooms/)                          | Medium |
+| [Number of Provinces]                                     | Medium |
+| [Reorder Routes to Make All Paths Lead to the City Zero]  | Medium |
+| [Evaluate Division]                                       | Medium |
+
+| Breadth-First Search (BFS) | Difficulty |
+| ------------- | ------------- |
+| [Nearest Exit from Entrance in Maze]                          | Medium |
+| [Rotting Oranges]                                             | Medium |
+
 ## Heap / Priority Queue
 ## Binary Search
 ## Backtracking
