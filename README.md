@@ -15,7 +15,7 @@ Follow each problem link to to see its description, solution and explanation. Th
 | [Can Place Flowers](/CanPlaceFlowers)                                     | Easy |
 | [Reverse Vowels of a String](/ReverseVowelsOfAString/)                    | Easy |
 | [Reverse Words in a String](/ReverseWordsInAString/)                      | Medium |
-| *Product of Array Except Self*                                | Medium |
+| [Product of Array Except Self](/ProductOfArrayExceptSelf/)                | Medium |
 | *Increasing Triplet Subsequence*                              | Medium |
 | [String Compression](/StringCompression)                      | Medium |
 
