@@ -40,7 +40,7 @@ Follow each problem link to to see its description, solution and explanation. Th
 | [Find the Difference of Two Arrays](/FindTheDifferenceOfTwoArrays/)   | Easy |
 | [Unique Number Of Occurrences](/UniqueNumberOfOccurrences)            | Easy |
 | [Determine If Two Strings Are Close](/DetermineIfTwoStringsAreClose)  | Medium |
-| *Equal Row and Column Pairs*                                          | Medium |
+| [Equal Row and Column Pairs](/EqualRowAndColumnPairs/)                | Medium |
 
 ## Stack
 | Stack | Difficulty |
