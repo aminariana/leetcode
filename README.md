@@ -98,6 +98,13 @@ Follow each problem link to to see its description, solution and explanation. Th
 
 ## Heap / Priority Queue
 ## Binary Search
+| Binary Search | Difficulty |
+| ------------- | ------------- |
+| [Guess Number Higher or Lower](/GuessNumberHigherOrLower/) | Easy |
+| [Successful Pairs of Spells or Potions] | Medium |
+| [Find Peak Element] | Medium |
+| [Koko Eating Bananas] | Medium |
+
 ## Backtracking
 ## Dynamic Programming
 | 1 Dimensional | Difficulty |
