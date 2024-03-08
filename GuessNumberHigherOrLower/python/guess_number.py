@@ -14,11 +14,8 @@ class Guess:
         low, high = 1, n + 1
         while high > low:
             num = (low + high) // 2
-            comparison = self.guess(num)
-            if comparison == 0:
-                return num
-            elif comparison < 0:
-                high = num
+            if self.guess(num) > 0:
+                low = num + 1
             else:
-                low = num
-        return None
+                high = num
+        return low
