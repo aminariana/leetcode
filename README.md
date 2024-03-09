@@ -122,6 +122,12 @@ Follow each problem link to to see its description, solution and explanation. Th
 | *Edit Distance*                                                   | Medium |
 
 ## Bit Manipulation
+| Bit Manipulation | Difficulty |
+| ------------- | ------------- |
+| [Counting Bits](/CountingBits/)                                   | Easy |
+| [Single Number]                                                   | Easy |
+| [Minimum Flips to Make a OR b Equal to c]                         | Medium |
+
 ## Trie
 ## Intervals
 ## Monotonic Stack
