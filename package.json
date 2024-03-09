@@ -1,7 +1,7 @@
 {
-  "name": "com.aminariana.leetcode",
+  "name": "https://github.com/aminariana/leetcode",
   "version": "1.0.0",
-  "description": "",
+  "description": "LeetCode problems and solutions",
   "main": "index.js",
   "devDependencies": {
     "mocha": "^10.3.0"
