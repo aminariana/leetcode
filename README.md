@@ -16,8 +16,8 @@ Follow each problem link to to see its description, solution and explanation. Th
 | [Reverse Vowels of a String](/ReverseVowelsOfAString/)                    | Easy |
 | [Reverse Words in a String](/ReverseWordsInAString/)                      | Medium |
 | [Product of Array Except Self](/ProductOfArrayExceptSelf/)                | Medium |
-| *Increasing Triplet Subsequence*                              | Medium |
-| [String Compression](/StringCompression)                      | Medium |
+| [Increasing Triplet Subsequence](/IncreasingTripletsSubsequence/)         | Medium |
+| [String Compression](/StringCompression)                                  | Medium |
 
 ## Two Pointers
 | Two Pointers  | Difficulty |
@@ -26,6 +26,7 @@ Follow each problem link to to see its description, solution and explanation. Th
 | [Is Subsequence](/IsSubsequence)                      | Easy |
 | [Container With Most Water](/ContainerWithMostWater)  | Medium |
 | [Max Number of K-sum Pairs](/MaxNumberOfKSumPairs)    | Medium |
+
 ## Sliding Window
 | Sliding Window | Difficulty |
 | ------------- | ------------- |
@@ -33,7 +34,13 @@ Follow each problem link to to see its description, solution and explanation. Th
 | [Maximum Number Of Vowels In A Substring Of Given Length](/MaximumNumberOfVowelsInASubstringOfGivenLength/) | Medium |
 | [Max Consecutive Ones III](/MaxConsecutiveOnes/) | Medium |
 | [Longest Subarray of 1's After Deleting One Element](/LongestSubarrayOfOnesAfterDeletingOneElement/) | Medium |
+
 ## Prefix Sum
+| Prefix Sum | Difficulty |
+| ------------- | ------------- |
+| [Find the Highest Altitude]                   | Easy |
+| [Find Pivot Index]                            | Easy |
+
 ## Hashmap / Set
 | Hashmap / Set | Difficulty |
 | ------------- | ------------- |
@@ -61,7 +68,7 @@ Follow each problem link to to see its description, solution and explanation. Th
 | [Reverse Linked List](ReverseLinkedList)                                      | Easy |
 | [Delete The middle Node of a Linked List](/DeleteTheMiddleNodeOfALinkedList)  | Medium |
 | [Odd Even Linked List](/OddEvenLinkedList)                                    | Medium |
-| *Maximum Twin Sum of a Linked List*                                           | Medium |
+| [Maximum Twin Sum of a Linked List]                                           | Medium |
 
 ## Binary Tree
 | Depth-First Search (DFS) | Difficulty |
@@ -97,6 +104,13 @@ Follow each problem link to to see its description, solution and explanation. Th
 | [Rotting Oranges]                                             | Medium |
 
 ## Heap / Priority Queue
+| Heap / Priority Queue | Difficulty |
+| ------------- | ------------- |
+| [Kth Largest Element in an Array] | Medium |
+| [Smallest Number in Infinite Set] | Medium |
+| [Maximum Subsequence Score]       | Medium |
+| [Total Cost to Hire K Workers]    | Medium |
+
 ## Binary Search
 | Binary Search | Difficulty |
 | ------------- | ------------- |
@@ -106,6 +120,11 @@ Follow each problem link to to see its description, solution and explanation. Th
 | [Koko Eating Bananas] | Medium |
 
 ## Backtracking
+| Backtracking | Difficulty |
+| ------------- | ------------- |
+| [Letter Combinations of a Phone Number] | Medium |
+| [Combination Sum III] | Medium |
+
 ## Dynamic Programming
 | 1 Dimensional | Difficulty |
 | ------------- | ------------- |
@@ -116,10 +135,10 @@ Follow each problem link to to see its description, solution and explanation. Th
 
 | Multi Dimensional | Difficulty |
 | ------------- | ------------- |
-| *Unique Paths*                                                    | Medium |
-| *Longest Common Subsequence*                                      | Medium |
-| *Best Time to Buy and Sell Stock with Transaction Fee*            | Medium |
-| *Edit Distance*                                                   | Medium |
+| [Unique Paths]                                                    | Medium |
+| [Longest Common Subsequence]                                      | Medium |
+| [Best Time to Buy and Sell Stock with Transaction Fee]            | Medium |
+| [Edit Distance]                                                   | Medium |
 
 ## Bit Manipulation
 | Bit Manipulation | Difficulty |
@@ -129,10 +148,24 @@ Follow each problem link to to see its description, solution and explanation. Th
 | [Minimum Flips to Make a OR b Equal to c]                         | Medium |
 
 ## Trie
+| Trie | Difficulty |
+| ------------- | ------------- |
+| [Implement Trie (Prefix Tree)]    | Medium |
+| [Search Suggestions System]       | Medium |
+
 ## Intervals
+| Intervals | Difficulty |
+| ------------- | ------------- |
+| [Non-overlapping Intervals]                   | Medium |
+| [Minimum Number of Arrows to Burst Balloons]  | Medium |
+
 ## Monotonic Stack
-## Other / Unclassified
-### Hard
+| Monotonic Stack | Difficulty |
+| ------------- | ------------- |
+| [Daily Temperatures]      | Medium |
+| [Online Stock Span]       | Medium |
+
+# Hard / Misc
 - [Count of Numbers After Self](CountOfNumbersAfterSelf)
 - [Longest Consecutive Sequence](LongestConsecutiveSequence)
 - [Minimum Window Substring](MinimumWindowSubstring)
