@@ -122,8 +122,8 @@ Follow each problem link to to see its description, solution and explanation. Th
 ## Backtracking
 | Backtracking | Difficulty |
 | ------------- | ------------- |
-| [Letter Combinations of a Phone Number] | Medium |
-| [Combination Sum III] | Medium |
+| [Letter Combinations of a Phone Number](/LetterCombinationsOfAPhoneNumber/)   | Medium |
+| [Combination Sum III]                                                         | Medium |
 
 ## Dynamic Programming
 | 1 Dimensional | Difficulty |
