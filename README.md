@@ -106,10 +106,10 @@ Follow each problem link to to see its description, solution and explanation. Th
 ## Heap / Priority Queue
 | Heap / Priority Queue | Difficulty |
 | ------------- | ------------- |
-| [Kth Largest Element in an Array] | Medium |
-| [Smallest Number in Infinite Set] | Medium |
-| [Maximum Subsequence Score]       | Medium |
-| [Total Cost to Hire K Workers]    | Medium |
+| [Kth Largest Element in an Array](/KthLargestElementInAnArray/)   | Medium |
+| [Smallest Number in Infinite Set]                                 | Medium |
+| [Maximum Subsequence Score]                                       | Medium |
+| [Total Cost to Hire K Workers]                                    | Medium |
 
 ## Binary Search
 | Binary Search | Difficulty |
