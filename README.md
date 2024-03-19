@@ -108,7 +108,7 @@ Follow each problem link to to see its description, solution and explanation. Th
 | ------------- | ------------- |
 | [Kth Largest Element in an Array](/KthLargestElementInAnArray/)   | Medium |
 | [Smallest Number in Infinite Set](/SmallestNumberInInfiniteSet/)  | Medium |
-| [Maximum Subsequence Score]                                       | Medium |
+| [Maximum Subsequence Score](/MaximumSubsequenceScore/)            | Medium |
 | [Total Cost to Hire K Workers]                                    | Medium |
 
 ## Binary Search
