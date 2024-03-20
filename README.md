@@ -135,7 +135,7 @@ Follow each problem link to to see its description, solution and explanation. Th
 
 | Multi Dimensional | Difficulty |
 | ------------- | ------------- |
-| [Unique Paths]                                                    | Medium |
+| [Unique Paths](/UniquePaths/)                                     | Medium |
 | [Longest Common Subsequence]                                      | Medium |
 | [Best Time to Buy and Sell Stock with Transaction Fee]            | Medium |
 | [Edit Distance]                                                   | Medium |
