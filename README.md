@@ -144,7 +144,7 @@ Follow each problem link to to see its description, solution and explanation. Th
 | Bit Manipulation | Difficulty |
 | ------------- | ------------- |
 | [Counting Bits](/CountingBits/)                                   | Easy |
-| [Single Number]                                                   | Easy |
+| [Single Number](/SingleNumber/)                                   | Easy |
 | [Minimum Flips to Make a OR b Equal to c]                         | Medium |
 
 ## Trie
