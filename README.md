@@ -68,7 +68,7 @@ Follow each problem link to to see its description, solution and explanation. Th
 | [Reverse Linked List](ReverseLinkedList)                                      | Easy |
 | [Delete The middle Node of a Linked List](/DeleteTheMiddleNodeOfALinkedList)  | Medium |
 | [Odd Even Linked List](/OddEvenLinkedList)                                    | Medium |
-| [Maximum Twin Sum of a Linked List]                                           | Medium |
+| [Maximum Twin Sum of a Linked List](/MaximumTwinSumOfALinkedList/)            | Medium |
 
 ## Binary Tree
 | Depth-First Search (DFS) | Difficulty |
