@@ -39,7 +39,7 @@ Follow each problem link to to see its description, solution and explanation. Th
 | Prefix Sum | Difficulty |
 | ------------- | ------------- |
 | [Find the Highest Altitude](/FindTheHighestAltitude/)     | Easy |
-| [Find Pivot Index]                                        | Easy |
+| [Find Pivot Index](/FindPivotIndex/)                      | Easy |
 
 ## Hashmap / Set
 | Hashmap / Set | Difficulty |
