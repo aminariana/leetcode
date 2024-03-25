@@ -38,8 +38,8 @@ Follow each problem link to to see its description, solution and explanation. Th
 ## Prefix Sum
 | Prefix Sum | Difficulty |
 | ------------- | ------------- |
-| [Find the Highest Altitude]                   | Easy |
-| [Find Pivot Index]                            | Easy |
+| [Find the Highest Altitude](/FindTheHighestAltitude/)     | Easy |
+| [Find Pivot Index]                                        | Easy |
 
 ## Hashmap / Set
 | Hashmap / Set | Difficulty |
