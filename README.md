@@ -78,7 +78,7 @@ Follow each problem link to to see its description, solution and explanation. Th
 | [Count Good Nodes in Binary Tree](/CountGoodNodesInBinaryTree/)               | Medium |
 | [Path Sum III]                                                                | Medium |
 | [Longest ZigZag Path in a Binary Tree](/LongestZigZagPathInABinaryTree/)      | Medium |
-| [Lowest Common Ancestor of a Binary Tree]                                     | Medium |
+| [Lowest Common Ancestor of a Binary Tree](/LowestCommonAncestorOfABinaryTree/)| Medium |
 
 | Breadth-First Search (BFS) | Difficulty |
 | ------------- | ------------- |
