@@ -1,6 +1,6 @@
 # Find Pivot Index
 
-[![Easy](https://img.shields.io/badge/Difficulty-Easy-Red.svg)](https://github.com/aminariana/leetcode)
+![Easy](https://img.shields.io/badge/Difficulty-Easy-green)
 
 Given an array of integers `nums`, calculate the **pivot index** of this array.
 

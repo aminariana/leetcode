@@ -1,6 +1,6 @@
 # Longest Consecutive Sequence
 
-[![Hard](https://img.shields.io/badge/Difficulty-Hard-Red.svg)](https://github.com/aminariana/leetcode)
+![Hard](https://img.shields.io/badge/Difficulty-Hard-red)
 
 Given an unsorted array of integers, find the length of the longest consecutive elements sequence.
 

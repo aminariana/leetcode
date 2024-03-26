@@ -1,6 +1,6 @@
 # Maximum Number of Vowels in a Substring of Given Length
 
-[![Medium](https://img.shields.io/badge/Difficulty-Medium-Red.svg)](https://github.com/aminariana/leetcode)
+![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow)
 
 Given a string `s` and an integer `k`, return *the maximum number of vowel letters in any substring of `s` with length `k`*.
 

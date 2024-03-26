@@ -1,6 +1,6 @@
 # Leaf-Similar Trees
 
-[![Easy](https://img.shields.io/badge/Difficulty-Easy-Green.svg)](https://github.com/aminariana/leetcode)
+![Easy](https://img.shields.io/badge/Difficulty-Easy-green)
 
 Consider all the leaves of a binary tree, from left to right order, the values of those leaves form a **leaf value sequence**.
 

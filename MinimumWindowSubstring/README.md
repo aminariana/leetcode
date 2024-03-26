@@ -1,6 +1,6 @@
 # Minimum Window Substring
 
-[![Hard](https://img.shields.io/badge/Difficulty-Hard-Red.svg)](https://github.com/aminariana/leetcode)
+![Hard](https://img.shields.io/badge/Difficulty-Hard-red)
 
 Given a string S and a string T, find the minimum window in S which will contain all the characters in T in complexity O(n).
 

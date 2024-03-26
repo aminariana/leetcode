@@ -1,6 +1,6 @@
 # Maximum Depth of Binary Tree
 
-[![Easy](https://img.shields.io/badge/Difficulty-Easy-Green.svg)](https://github.com/aminariana/leetcode)
+![Easy](https://img.shields.io/badge/Difficulty-Easy-green)
 
 Given the `root` of a binary tree, return *its maximum depth*.
 

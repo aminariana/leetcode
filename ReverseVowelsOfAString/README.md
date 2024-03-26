@@ -1,6 +1,6 @@
 # Reverse Vowels of a String
 
-[![Easy](https://img.shields.io/badge/Difficulty-Easy-Green.svg)](https://github.com/aminariana/leetcode)
+![Easy](https://img.shields.io/badge/Difficulty-Easy-green)
 
 Given a string `s`, reverse only all the vowels in the string and return it.
 

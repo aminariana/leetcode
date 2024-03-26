@@ -1,6 +1,6 @@
 # Max Consecutive Ones III
 
-[![Medium](https://img.shields.io/badge/Difficulty-Medium-Red.svg)](https://github.com/aminariana/leetcode)
+![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow)
 
 Given a binary array `nums` and an integer `k`, return *the maximum number of consecutive `1`'s in the array if you can flip at most `k` `0`'s*.
 

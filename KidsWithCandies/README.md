@@ -1,6 +1,6 @@
 # Kids With The Greatest Number of Candies
 
-[![Easy](https://img.shields.io/badge/Difficulty-Easy-Red.svg)](https://github.com/aminariana/leetcode)
+![Easy](https://img.shields.io/badge/Difficulty-Easy-green)
 
 There are `n` kids with candies. You are given an integer array `candies`, where each `candies[i]` represents the number of candies the ith kid has, and an integer extraCandies, denoting the number of extra candies that you have.
 

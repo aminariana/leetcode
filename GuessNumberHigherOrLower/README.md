@@ -1,6 +1,6 @@
 # Guess Number Higher or Lower
 
-[![Easy](https://img.shields.io/badge/Difficulty-Easy-Green.svg)](https://github.com/aminariana/leetcode)
+![Easy](https://img.shields.io/badge/Difficulty-Easy-green)
 
 We are playing the Guess Game. The game is as follows:
 

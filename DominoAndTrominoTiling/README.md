@@ -1,6 +1,6 @@
 # Domino and Tromino Tiling
 
-[![Medium](https://img.shields.io/badge/Difficulty-Medium-Yellow.svg)](https://github.com/aminariana/leetcode)
+![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow)
 
 You have two types of tiles: a `2 x 1` domino shape and a tromino shape. You may rotate these shapes.
 ![Tiles](domino-tile.jpg)

@@ -1,6 +1,6 @@
 # Determine If Two Strings Are Close
 
-[![Medium](https://img.shields.io/badge/Difficulty-Medium-Yellow.svg)](https://github.com/aminariana/leetcode)
+![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow)
 
 Two strings are considered **close** if you can attain one from the other using the following operations:
 

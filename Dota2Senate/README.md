@@ -1,6 +1,6 @@
 # Dota2 Senate
 
-[![Medium](https://img.shields.io/badge/Difficulty-Medium-Yellow.svg)](https://github.com/aminariana/leetcode)
+![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow)
 
 In the world of Dota2, there are two parties: the Radiant and the Dire.
 

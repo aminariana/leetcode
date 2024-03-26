@@ -1,6 +1,6 @@
 # Longest ZigZag Path in a Binary Tree
 
-[![Medium](https://img.shields.io/badge/Difficulty-Medium-Yellow.svg)](https://github.com/aminariana/leetcode)
+![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow)
 
 You are given the `root` of a binary tree.
 

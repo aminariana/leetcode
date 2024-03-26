@@ -1,6 +1,6 @@
 # Delete the Middle Node of a Linked List
 
-[![Medium](https://img.shields.io/badge/Difficulty-Medium-Red.svg)](https://github.com/aminariana/leetcode)
+![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow)
 
 You are given the `head` of a linked list. **Delete** the **middle node**, and return the `head` *of the modified linked list*.
 

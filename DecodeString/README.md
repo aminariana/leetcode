@@ -1,6 +1,6 @@
 # Decode String
 
-[![Medium](https://img.shields.io/badge/Difficulty-Medium-Yellow.svg)](https://github.com/aminariana/leetcode)
+![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow)
 
 Given an encoded string, return its decoded string.
 

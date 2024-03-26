@@ -1,6 +1,6 @@
 # Greatest Common Divisor of Strings
 
-[![Easy](https://img.shields.io/badge/Difficulty-Easy-Red.svg)](https://github.com/aminariana/leetcode)
+![Easy](https://img.shields.io/badge/Difficulty-Easy-green)
 
 For two strings `s` and `t`, we say "`t` divides `s`" if and only if `s = t + t + t + ... + t + t` (i.e., `t` is concatenated with itself one or more times).
 

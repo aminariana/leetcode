@@ -1,6 +1,6 @@
 # Max Number of K-sum Pairs
 
-[![Medium](https://img.shields.io/badge/Difficulty-Medium-Red.svg)](https://github.com/aminariana/leetcode)
+![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow)
 
 You are given an integer array `nums` and an integer `k`.
 

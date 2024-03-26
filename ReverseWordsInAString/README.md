@@ -1,6 +1,6 @@
 # Reverse Words in a String
 
-[![Medium](https://img.shields.io/badge/Difficulty-Medium-Yellow.svg)](https://github.com/aminariana/leetcode)
+![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow)
 
 Given an input string `s`, reverse the order of the **words**.
 

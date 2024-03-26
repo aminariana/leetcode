@@ -1,6 +1,6 @@
 # Counting Bits
 
-[![Easy](https://img.shields.io/badge/Difficulty-Easy-Green.svg)](https://github.com/aminariana/leetcode)
+![Easy](https://img.shields.io/badge/Difficulty-Easy-green)
 
 Given an integer `n`, return *an array `ans` of length `n + 1` such that for each `i` (`0 <= i <= n`), `ans[i]` is the number of `1`**'s** in the binary representation of `i`*.
 

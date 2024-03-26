@@ -1,6 +1,6 @@
 # Search in a Binary Search Tree
 
-[![Easy](https://img.shields.io/badge/Difficulty-Easy-Yellow.svg)](https://github.com/aminariana/leetcode)
+![Easy](https://img.shields.io/badge/Difficulty-Easy-green)
 
 You are given the `root` of a binary search tree (BST) and an integer `val`.
 

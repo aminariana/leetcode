@@ -1,6 +1,6 @@
 # String Compression
 
-[![Medium](https://img.shields.io/badge/Difficulty-Medium-Red.svg)](https://github.com/aminariana/leetcode)
+![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow)
 
 Given an array of characters `chars`, compress it using the following algorithm:
 

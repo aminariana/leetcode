@@ -1,6 +1,6 @@
 # Equal Row and Column Pairs
 
-[![Medium](https://img.shields.io/badge/Difficulty-Medium-Yellow.svg)](https://github.com/aminariana/leetcode)
+![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow)
 
 Given a **0-indexed** `n x n` integer matrix `grid`, return *the number of pairs `(ri, cj)` such that row `ri` and column `cj` are equal*.
 

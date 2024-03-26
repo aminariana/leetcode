@@ -1,6 +1,6 @@
 # Removing Stars from a String
 
-[![Medium](https://img.shields.io/badge/Difficulty-Medium-Yellow.svg)](https://github.com/aminariana/leetcode)
+![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow)
 
 You are given a string `s`, which contains stars `*`.
 

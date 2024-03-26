@@ -1,6 +1,6 @@
 # Smallest Number in Infinite Set
 
-[![Medium](https://img.shields.io/badge/Difficulty-Medium-Yellow.svg)](https://github.com/aminariana/leetcode)
+![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow)
 
 You have a set which contains all positive integers `[1, 2, 3, 4, 5, ...]`.
 

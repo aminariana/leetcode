@@ -1,6 +1,6 @@
 # Maximum Average Subarray I
 
-[![Easy](https://img.shields.io/badge/Difficulty-Easy-Red.svg)](https://github.com/aminariana/leetcode)
+![Easy](https://img.shields.io/badge/Difficulty-Easy-green)
 
 You are given an integer array `nums` consisting of `n` elements, and an integer `k`.
 

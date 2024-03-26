@@ -1,6 +1,6 @@
 # Asteroid Collision
 
-[![Medium](https://img.shields.io/badge/Difficulty-Medium-Yellow.svg)](https://github.com/aminariana/leetcode)
+![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow)
 
 We are given an array `asteroids` of integers representing asteroids in a row.
 

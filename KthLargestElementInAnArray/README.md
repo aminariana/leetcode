@@ -1,6 +1,6 @@
 # Kth Largest Element In An Array
 
-[![Medium](https://img.shields.io/badge/Difficulty-Medium-Yellow.svg)](https://github.com/aminariana/leetcode)
+![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow)
 
 Given an integer array `nums` and an integer `k`, return *the `k'th` largest element in the array*.
 

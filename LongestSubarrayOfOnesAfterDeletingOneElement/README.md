@@ -1,6 +1,6 @@
 # Longest Subarray of 1's After Deleting One Element
 
-[![Medium](https://img.shields.io/badge/Difficulty-Medium-Red.svg)](https://github.com/aminariana/leetcode)
+![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow)
 
 Given a binary array `nums`, you should delete one element from it.
 

@@ -1,6 +1,6 @@
 # Reverse Linked List
 
-[![Easy](https://img.shields.io/badge/Difficulty-Easy-Red.svg)](https://github.com/aminariana/leetcode)
+![Easy](https://img.shields.io/badge/Difficulty-Easy-green)
 
 Given the `head` of a singly linked list, reverse the list, and return *the reversed list*.
 

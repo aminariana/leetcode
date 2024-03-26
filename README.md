@@ -181,8 +181,8 @@ Follow each problem link to to see its description, solution and explanation. Th
 # Legend
 You will find these badges on top of each problem page:
 
-[![Easy](https://img.shields.io/badge/Difficulty-Easy-Green.svg)](https://github.com/aminariana/leetcode)
-[![Medium](https://img.shields.io/badge/Difficulty-Medium-Yellow.svg)](https://github.com/aminariana/leetcode)
-[![Hard](https://img.shields.io/badge/Difficulty-Hard-Red.svg)](https://github.com/aminariana/leetcode)
+![Easy](https://img.shields.io/badge/Difficulty-Easy-green)
+![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow)
+![Hard](https://img.shields.io/badge/Difficulty-Hard-red)
 
 \* Asterisk indicates disputed difficulty.

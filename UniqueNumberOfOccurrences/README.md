@@ -1,5 +1,5 @@
 # Unique Number of Occurrences
-[![Easy](https://img.shields.io/badge/Difficulty-Easy-Green.svg)](https://github.com/aminariana/leetcode)
+![Easy](https://img.shields.io/badge/Difficulty-Easy-green)
 
 Given an array of integers `arr`, return `true` *if the number of occurrences of each value in the array is **unique** or `false` otherwise*.
 

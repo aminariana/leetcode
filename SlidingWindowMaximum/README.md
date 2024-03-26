@@ -1,6 +1,6 @@
 # Sliding Window Maximum
 
-[![Hard](https://img.shields.io/badge/Difficulty-Hard-Red.svg)](https://github.com/aminariana/leetcode)
+![Hard](https://img.shields.io/badge/Difficulty-Hard-red)
 
 Given an array nums, there is a sliding window of size k which is moving from the very left of the array to the very right. You can only see the k numbers in the window. Each time the sliding window moves right by one position. Return the max sliding window.
 

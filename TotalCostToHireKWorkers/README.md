@@ -1,6 +1,6 @@
 # Total Cost To Hire K Workers
 
-[![Medium](https://img.shields.io/badge/Difficulty-Medium-Yellow.svg)](https://github.com/aminariana/leetcode)
+![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow)
 
 You are given a **0-indexed** integer array `costs` where `costs[i]` is the cost of hiring the `i'th` worker.
 

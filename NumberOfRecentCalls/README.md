@@ -1,6 +1,6 @@
 # Number of Recent Calls
 
-[![Easy](https://img.shields.io/badge/Difficulty-Easy-Green.svg)](https://github.com/aminariana/leetcode)
+![Easy](https://img.shields.io/badge/Difficulty-Easy-green)
 
 You have a `RecentCounter` class which counts the number of recent requests within a certain time frame.
 

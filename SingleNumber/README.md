@@ -1,6 +1,6 @@
 # Single Number
 
-[![Easy](https://img.shields.io/badge/Difficulty-Easy-Yellow.svg)](https://github.com/aminariana/leetcode)
+![Easy](https://img.shields.io/badge/Difficulty-Easy-green)
 
 Given a **non-empty** array of integers `nums`, every element appears *twice* except for one. Find that single one.
 

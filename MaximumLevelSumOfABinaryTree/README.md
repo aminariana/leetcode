@@ -1,6 +1,6 @@
 # Maximum Level Sum of a Binary Tree
 
-[![Medium](https://img.shields.io/badge/Difficulty-Medium-Yellow.svg)](https://github.com/aminariana/leetcode)
+![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow)
 
 Given the `root` of a binary tree, the level of its root is `1`, the level of its children is `2`, and so on.
 
