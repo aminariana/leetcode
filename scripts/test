@@ -1,0 +1,7 @@
+set -e
+
+# pip install -r requirements.txt
+python -m pytest
+
+# npm install -g mocha
+npx mocha ./**/*.test.js
