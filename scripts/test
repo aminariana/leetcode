@@ -1,7 +1,18 @@
 set -e
 
+echo Testing Python
 # pip install -r requirements.txt
 python -m pytest
 
+echo Testing JavaScript
 # npm install -g mocha
 npx mocha ./**/*.test.js
+
+echo Building Java classes
+javac -cp lib/junit-platform-console-standalone-1.7.0-M1.jar \
+    **/java/*.java \
+    -d ./build/
+echo Testing Java classes
+java -jar lib/junit-platform-console-standalone-1.7.0-M1.jar \
+    --class-path ./build/ \
+    --scan-class-path

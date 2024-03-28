@@ -2,6 +2,7 @@
 .pytest_cache
 .venv
 .vscode
-node_modules
-dist
-__pycache__
+build/
+node_modules/
+dist/
+__pycache__/
