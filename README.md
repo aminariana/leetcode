@@ -79,7 +79,7 @@ Follow each problem link to to see its description, solution and explanation. Th
 | [Maximum Depth of Binary Tree](/MaximumDepthOfBinaryTree/)                    | ![Easy](https://img.shields.io/badge/Easy-green) |
 | [Leaf-similar Trees](/LeafSimilarTrees/)                                      | ![Easy](https://img.shields.io/badge/Easy-green) |
 | [Count Good Nodes in Binary Tree](/CountGoodNodesInBinaryTree/)               | ![Medium](https://img.shields.io/badge/Medium-yellow) |
-| [Path Sum III]                                                                | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| [Path Sum III](/PathSumIII/)                                                  | ![Medium](https://img.shields.io/badge/Medium-yellow)* |
 | [Longest ZigZag Path in a Binary Tree](/LongestZigZagPathInABinaryTree/)      | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | [Lowest Common Ancestor of a Binary Tree](/LowestCommonAncestorOfABinaryTree/)| ![Medium](https://img.shields.io/badge/Medium-yellow) |
 
