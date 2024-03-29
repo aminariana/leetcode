@@ -126,7 +126,7 @@ Follow each problem link to to see its description, solution and explanation. Th
 | Backtracking | Difficulty |
 | ------------- | ------------- |
 | [Letter Combinations of a Phone Number](/LetterCombinationsOfAPhoneNumber/)   | ![Medium](https://img.shields.io/badge/Medium-yellow) |
-| [Combination Sum III]                                                         | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| [Combination Sum III](/CombinationSumIII/)                                    | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 
 ## Dynamic Programming
 | 1 Dimensional | Difficulty |
