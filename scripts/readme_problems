@@ -1,0 +1,1 @@
+grep '^| \[' README.md | awk -F'[][]' '{print $2}'
