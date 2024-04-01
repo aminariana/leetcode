@@ -10,19 +10,12 @@ class Solution:
                 if c1 == c2:
                     dp[row][col] = dp[row - 1][col - 1]
                 else:
-                    if row == 0 and col == 0:
-                        dp[row][col] = 1
-                    elif col == 0:
-                        dp[row][col] = dp[row - 1][col] + 1
-                    elif row == 0:
-                        dp[row][col] = dp[row][col - 1] + 1
-                    else:
-                        insert_cost = dp[row][col - 1] if col > 0 else row
-                        delete_cost = dp[row - 1][col] if row > 0 else col
-                        replace_cost = dp[row - 1][col - 1]
-                        dp[row][col] = min(insert_cost, delete_cost, replace_cost) + 1
-        for line in dp:
-            print(line)
+                    # 1 step from best of insert, delete or replace:
+                    dp[row][col] = 1 + min(
+                        dp[row][col - 1], dp[row - 1][col], dp[row - 1][col - 1]
+                    )
+        # for line in dp:
+        #     print(line)
         return dp[-1][-1]
 
     def minDistance_1D_DP(self, word1: str, word2: str) -> int:
