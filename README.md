@@ -141,7 +141,7 @@ Follow each problem link to to see its description, solution and explanation. Th
 | [Unique Paths](/UniquePaths/)                                     | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | [Longest Common Subsequence](/LongestCommonSubsequence/)          | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | [Best Time to Buy and Sell Stock with Transaction Fee]            | ![Medium](https://img.shields.io/badge/Medium-yellow) |
-| [Edit Distance]                                                   | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| [Edit Distance](/EditDistance/)                                   | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 
 ## Bit Manipulation
 | Bit Manipulation | Difficulty |
