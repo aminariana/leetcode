@@ -138,10 +138,10 @@ Follow each problem link to to see its description, solution and explanation. Th
 
 | Multi Dimensional | Difficulty |
 | ------------- | ------------- |
-| [Unique Paths](/UniquePaths/)                                     | ![Medium](https://img.shields.io/badge/Medium-yellow) |
-| [Longest Common Subsequence](/LongestCommonSubsequence/)          | ![Medium](https://img.shields.io/badge/Medium-yellow) |
-| [Best Time to Buy and Sell Stock with Transaction Fee]            | ![Medium](https://img.shields.io/badge/Medium-yellow) |
-| [Edit Distance](/EditDistance/)                                   | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| [Unique Paths](/UniquePaths/)                                                                         | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| [Longest Common Subsequence](/LongestCommonSubsequence/)                                              | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| [Best Time to Buy and Sell Stock with Transaction Fee](/BestTimeToBuyAndSellStockWithTransactionFee/) | ![Medium](https://img.shields.io/badge/Medium-yellow)* |
+| [Edit Distance](/EditDistance/)                                                                       | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 
 ## Bit Manipulation
 | Bit Manipulation | Difficulty |
