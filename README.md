@@ -103,8 +103,8 @@ Follow each problem link to to see its description, solution and explanation. Th
 
 | Breadth-First Search (BFS) | Difficulty |
 | ------------- | ------------- |
-| [Nearest Exit from Entrance in Maze]                          | ![Medium](https://img.shields.io/badge/Medium-yellow) |
-| [Rotting Oranges]                                             | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| [Nearest Exit from Entrance in Maze](/NearestExitFromEntranceInMaze/) | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| [Rotting Oranges]                                                     | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 
 ## Heap / Priority Queue
 | Heap / Priority Queue | Difficulty |
