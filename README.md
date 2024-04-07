@@ -117,10 +117,10 @@ Follow each problem link to to see its description, solution and explanation. Th
 ## Binary Search
 | Binary Search | Difficulty |
 | ------------- | ------------- |
-| [Guess Number Higher or Lower](/GuessNumberHigherOrLower/) | ![Easy](https://img.shields.io/badge/Easy-green) |
-| [Successful Pairs of Spells or Potions] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
-| [Find Peak Element] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
-| [Koko Eating Bananas] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| [Guess Number Higher or Lower](/GuessNumberHigherOrLower/)                    | ![Easy](https://img.shields.io/badge/Easy-green) |
+| [Successful Pairs of Spells or Potions](/SuccessfulPairsOfSpellsAndPotions/)  | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| [Find Peak Element]                                                           | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| [Koko Eating Bananas]                                                         | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 
 ## Backtracking
 | Backtracking | Difficulty |
