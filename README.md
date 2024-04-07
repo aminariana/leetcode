@@ -3,7 +3,7 @@
 A collection of LeetCode solutions to practice various programming languages, mainly `java` `python` sometimes `ruby` `kotlin`
 
 #### Problem set
-![LeetCode+75](https://progress-bar.dev/89/?title=LeetCode+75&width=200)
+![LeetCode+75](https://progress-bar.dev/90/?title=LeetCode+75&width=200)
 
 #### Approach
 Follow each problem link to to see its description, solution and explanation. The solution may appear in multiple languages, just for fun.
@@ -154,7 +154,7 @@ Follow each problem link to to see its description, solution and explanation. Th
 | Trie | Difficulty |
 | ------------- | ------------- |
 | [Implement Trie (Prefix Tree)](/ImplementTrie/)       | ![Medium](https://img.shields.io/badge/Medium-yellow) |
-| [Search Suggestions System]                           | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| [Search Suggestions System](/SearchSuggestionSystem/) | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 
 ## Intervals
 | Intervals | Difficulty |
