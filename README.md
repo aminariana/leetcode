@@ -3,7 +3,7 @@
 A collection of LeetCode solutions to practice various programming languages, mainly `java` `python` sometimes `ruby` `kotlin`
 
 #### Problem set
-![LeetCode+75](https://progress-bar.dev/90/?title=LeetCode+75&width=200)
+![LeetCode+75](https://progress-bar.dev/93/?title=LeetCode+75&width=200)
 
 #### Approach
 Follow each problem link to to see its description, solution and explanation. The solution may appear in multiple languages, just for fun.
@@ -119,7 +119,7 @@ Follow each problem link to to see its description, solution and explanation. Th
 | ------------- | ------------- |
 | [Guess Number Higher or Lower](/GuessNumberHigherOrLower/)                    | ![Easy](https://img.shields.io/badge/Easy-green) |
 | [Successful Pairs of Spells or Potions](/SuccessfulPairsOfSpellsAndPotions/)  | ![Medium](https://img.shields.io/badge/Medium-yellow) |
-| [Find Peak Element]                                                           | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| [Find Peak Element](/FindPeakElement/)                                        | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | [Koko Eating Bananas]                                                         | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 
 ## Backtracking
