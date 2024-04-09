@@ -19,7 +19,7 @@ def combinationSum3_recursive(k: int, n: int, is_exact: bool = True) -> List[Lis
         return [[]]
     else:
         combos = []
-        for combo in self.combinationSum3(k - 1, n, False):
+        for combo in combinationSum3_recursive(k - 1, n, False):
             last_seen_digit = combo[-1] if len(combo) else 0
             for digit in range(last_seen_digit + 1, 10):
                 if (is_exact and digit + sum(combo) == n) or (not is_exact and digit + sum(combo) < n):

@@ -1,1 +1,2 @@
 pytest              # test framework
+flake8              # linter
