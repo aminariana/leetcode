@@ -165,8 +165,8 @@ Follow each problem link to to see its description, solution and explanation. Th
 ## Monotonic Stack
 | Monotonic Stack | Difficulty |
 | ------------- | ------------- |
-| [Daily Temperatures]      | ![Medium](https://img.shields.io/badge/Medium-yellow) |
-| [Online Stock Span]       | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| [Daily Temperatures](/DailyTemperatures/)     | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| [Online Stock Span]                           | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 
 # Hard / Misc
 | LeetCode Hard | Difficulty |
