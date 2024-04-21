@@ -99,7 +99,7 @@ Follow each problem link to to see its description, solution and explanation. Th
 | [Keys and Rooms](/KeysAndRooms/)                          | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | [Number of Provinces](/NumberOfProvinces/)                | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | [Reorder Routes to Make All Paths Lead to the City Zero](/ReorderRoutesToMakeAllPathsLeadToCityZero/) | ![Medium](https://img.shields.io/badge/Medium-yellow) |
-| [Evaluate Division]                                       | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| [Evaluate Division](/EvaluateDivision/)                   | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 
 | Breadth-First Search (BFS) | Difficulty |
 | ------------- | ------------- |
