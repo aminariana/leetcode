@@ -4,6 +4,7 @@ A collection of LeetCode solutions to practice various programming languages, ma
 
 #### Problem set
 ![LeetCode+75](https://progress-bar.dev/100/?title=LeetCode+75&width=200)
+
 ![Top+Interview+20+Hard](https://progress-bar.dev/5/?title=Top+Interview+20+Hard&width=200)
 
 #### Approach
@@ -26,150 +27,150 @@ Follow each problem link to to see its description, solution and explanation. Th
 | [Candy](/Candy)                                                           | ![Hard](https://img.shields.io/badge/Hard-red)        | Top150 |
 
 ## Two Pointers
-| Two Pointers  | Difficulty |
-| ------------- | ------------- |
-| [Move Zeroes](/MoveZeroes)                            | ![Easy](https://img.shields.io/badge/Easy-green) |
-| [Is Subsequence](/IsSubsequence)                      | ![Easy](https://img.shields.io/badge/Easy-green) |
-| [Container With Most Water](/ContainerWithMostWater)  | ![Medium](https://img.shields.io/badge/Medium-yellow) |
-| [Max Number of K-sum Pairs](/MaxNumberOfKSumPairs)    | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| Two Pointers  | Difficulty | Tag |
+| ------------- | ------------- | --- |
+| [Move Zeroes](/MoveZeroes)                            | ![Easy](https://img.shields.io/badge/Easy-green)      | LC75 |
+| [Is Subsequence](/IsSubsequence)                      | ![Easy](https://img.shields.io/badge/Easy-green)      | LC75 |
+| [Container With Most Water](/ContainerWithMostWater)  | ![Medium](https://img.shields.io/badge/Medium-yellow) | LC75 |
+| [Max Number of K-sum Pairs](/MaxNumberOfKSumPairs)    | ![Medium](https://img.shields.io/badge/Medium-yellow) | LC75 |
 
 ## Sliding Window
-| Sliding Window | Difficulty |
-| ------------- | ------------- |
-| [Maximum Average Subarray I](/MaximumAverageSubarrayI/)                                                       | ![Easy](https://img.shields.io/badge/Easy-green) |
-| [Maximum Number Of Vowels In A Substring Of Given Length](/MaximumNumberOfVowelsInASubstringOfGivenLength/)   | ![Medium](https://img.shields.io/badge/Medium-yellow) |
-| [Max Consecutive Ones III](/MaxConsecutiveOnes/)                                                              | ![Medium](https://img.shields.io/badge/Medium-yellow) |
-| [Longest Subarray of 1's After Deleting One Element](/LongestSubarrayOfOnesAfterDeletingOneElement/)          | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| Sliding Window | Difficulty | Tag |
+| ------------- | ------------- | --- |
+| [Maximum Average Subarray I](/MaximumAverageSubarrayI/)                                                       | ![Easy](https://img.shields.io/badge/Easy-green)      | LC75 |
+| [Maximum Number Of Vowels In A Substring Of Given Length](/MaximumNumberOfVowelsInASubstringOfGivenLength/)   | ![Medium](https://img.shields.io/badge/Medium-yellow) | LC75 |
+| [Max Consecutive Ones III](/MaxConsecutiveOnes/)                                                              | ![Medium](https://img.shields.io/badge/Medium-yellow) | LC75 |
+| [Longest Subarray of 1's After Deleting One Element](/LongestSubarrayOfOnesAfterDeletingOneElement/)          | ![Medium](https://img.shields.io/badge/Medium-yellow) | LC75 |
 
 ## Prefix Sum
-| Prefix Sum | Difficulty |
-| ------------- | ------------- |
-| [Find the Highest Altitude](/FindTheHighestAltitude/)     | ![Easy](https://img.shields.io/badge/Easy-green) |
-| [Find Pivot Index](/FindPivotIndex/)                      | ![Easy](https://img.shields.io/badge/Easy-green) |
+| Prefix Sum | Difficulty | Tag |
+| ------------- | ------------- | --- |
+| [Find the Highest Altitude](/FindTheHighestAltitude/)     | ![Easy](https://img.shields.io/badge/Easy-green) | LC75 |
+| [Find Pivot Index](/FindPivotIndex/)                      | ![Easy](https://img.shields.io/badge/Easy-green) | LC75 |
 
 ## Hashmap / Set
-| Hashmap / Set | Difficulty |
-| ------------- | ------------- |
-| [Find the Difference of Two Arrays](/FindTheDifferenceOfTwoArrays/)   | ![Easy](https://img.shields.io/badge/Easy-green) |
-| [Unique Number Of Occurrences](/UniqueNumberOfOccurrences)            | ![Easy](https://img.shields.io/badge/Easy-green) |
-| [Determine If Two Strings Are Close](/DetermineIfTwoStringsAreClose)  | ![Medium](https://img.shields.io/badge/Medium-yellow) |
-| [Equal Row and Column Pairs](/EqualRowAndColumnPairs/)                | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| Hashmap / Set | Difficulty | Tag |
+| ------------- | ------------- | --- |
+| [Find the Difference of Two Arrays](/FindTheDifferenceOfTwoArrays/)   | ![Easy](https://img.shields.io/badge/Easy-green)      | LC75 |
+| [Unique Number Of Occurrences](/UniqueNumberOfOccurrences)            | ![Easy](https://img.shields.io/badge/Easy-green)      | LC75 |
+| [Determine If Two Strings Are Close](/DetermineIfTwoStringsAreClose)  | ![Medium](https://img.shields.io/badge/Medium-yellow) | LC75 |
+| [Equal Row and Column Pairs](/EqualRowAndColumnPairs/)                | ![Medium](https://img.shields.io/badge/Medium-yellow) | LC75 |
 
 ## Stack
-| Stack | Difficulty |
-| ------------- | ------------- |
-| [Removing Stars from a String](/RemovingStarsFromAString/)    | ![Medium](https://img.shields.io/badge/Medium-yellow)* |
-| [Asteroid Collision](/AsteroidCollision/)                     | ![Medium](https://img.shields.io/badge/Medium-yellow) |
-| [Decode String](/DecodeString/)                               | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| Stack | Difficulty | Tag |
+| ------------- | ------------- | --- |
+| [Removing Stars from a String](/RemovingStarsFromAString/)    | ![Medium](https://img.shields.io/badge/Medium-yellow)*    | LC75 |
+| [Asteroid Collision](/AsteroidCollision/)                     | ![Medium](https://img.shields.io/badge/Medium-yellow)     | LC75 |
+| [Decode String](/DecodeString/)                               | ![Medium](https://img.shields.io/badge/Medium-yellow)     | LC75 |
 
 ## Queue
-| Queue | Difficulty |
-| ------------- | ------------- |
-| [Number of Recent Calls](/NumberOfRecentCalls/)   | ![Easy](https://img.shields.io/badge/Easy-green) |
-| [Dota2 Senate](/Dota2Senate/)                     | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| Queue | Difficulty | Tag |
+| ------------- | ------------- | --- |
+| [Number of Recent Calls](/NumberOfRecentCalls/)   | ![Easy](https://img.shields.io/badge/Easy-green)      | LC75 |
+| [Dota2 Senate](/Dota2Senate/)                     | ![Medium](https://img.shields.io/badge/Medium-yellow) | LC75 |
 
 ## Linked List
-| Linked List | Difficulty |
-| ------------- | ------------- |
-| [Reverse Linked List](ReverseLinkedList)                                      | ![Easy](https://img.shields.io/badge/Easy-green) |
-| [Delete The middle Node of a Linked List](/DeleteTheMiddleNodeOfALinkedList)  | ![Medium](https://img.shields.io/badge/Medium-yellow) |
-| [Odd Even Linked List](/OddEvenLinkedList)                                    | ![Medium](https://img.shields.io/badge/Medium-yellow) |
-| [Maximum Twin Sum of a Linked List](/MaximumTwinSumOfALinkedList/)            | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| Linked List | Difficulty | Tag |
+| ------------- | ------------- | --- |
+| [Reverse Linked List](ReverseLinkedList)                                      | ![Easy](https://img.shields.io/badge/Easy-green)      | LC75 |
+| [Delete The middle Node of a Linked List](/DeleteTheMiddleNodeOfALinkedList)  | ![Medium](https://img.shields.io/badge/Medium-yellow) | LC75 |
+| [Odd Even Linked List](/OddEvenLinkedList)                                    | ![Medium](https://img.shields.io/badge/Medium-yellow) | LC75 |
+| [Maximum Twin Sum of a Linked List](/MaximumTwinSumOfALinkedList/)            | ![Medium](https://img.shields.io/badge/Medium-yellow) | LC75 |
 
 ## Binary Tree
-| Depth-First Search (DFS) | Difficulty |
-| ------------- | ------------- |
-| [Maximum Depth of Binary Tree](/MaximumDepthOfBinaryTree/)                    | ![Easy](https://img.shields.io/badge/Easy-green) |
-| [Leaf-similar Trees](/LeafSimilarTrees/)                                      | ![Easy](https://img.shields.io/badge/Easy-green) |
-| [Count Good Nodes in Binary Tree](/CountGoodNodesInBinaryTree/)               | ![Medium](https://img.shields.io/badge/Medium-yellow) |
-| [Path Sum III](/PathSumIII/)                                                  | ![Medium](https://img.shields.io/badge/Medium-yellow)* |
-| [Longest ZigZag Path in a Binary Tree](/LongestZigZagPathInABinaryTree/)      | ![Medium](https://img.shields.io/badge/Medium-yellow) |
-| [Lowest Common Ancestor of a Binary Tree](/LowestCommonAncestorOfABinaryTree/)| ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| Depth-First Search (DFS) | Difficulty | Tag |
+| ------------- | ------------- | --- |
+| [Maximum Depth of Binary Tree](/MaximumDepthOfBinaryTree/)                    | ![Easy](https://img.shields.io/badge/Easy-green)          | LC75 |
+| [Leaf-similar Trees](/LeafSimilarTrees/)                                      | ![Easy](https://img.shields.io/badge/Easy-green)          | LC75 |
+| [Count Good Nodes in Binary Tree](/CountGoodNodesInBinaryTree/)               | ![Medium](https://img.shields.io/badge/Medium-yellow)     | LC75 |
+| [Path Sum III](/PathSumIII/)                                                  | ![Medium](https://img.shields.io/badge/Medium-yellow)*    | LC75 |
+| [Longest ZigZag Path in a Binary Tree](/LongestZigZagPathInABinaryTree/)      | ![Medium](https://img.shields.io/badge/Medium-yellow)     | LC75 |
+| [Lowest Common Ancestor of a Binary Tree](/LowestCommonAncestorOfABinaryTree/)| ![Medium](https://img.shields.io/badge/Medium-yellow)     | LC75 |
 
-| Breadth-First Search (BFS) | Difficulty |
-| ------------- | ------------- |
-| [Binary Tree Right Side View](/BinaryTreeRightSideView/)              | ![Medium](https://img.shields.io/badge/Medium-yellow) |
-| [Maximum Level Sum of a Binary Tree](/MaximumLevelSumOfABinaryTree/)  | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| Breadth-First Search (BFS) | Difficulty | Tag |
+| ------------- | ------------- | --- |
+| [Binary Tree Right Side View](/BinaryTreeRightSideView/)              | ![Medium](https://img.shields.io/badge/Medium-yellow) | LC75 |
+| [Maximum Level Sum of a Binary Tree](/MaximumLevelSumOfABinaryTree/)  | ![Medium](https://img.shields.io/badge/Medium-yellow) | LC75 |
 
-| Binary Search (BST) | Difficulty |
-| ------------- | ------------- |
-| [Search in a Binary Search Tree](/SearchInABinarySearchTree/) | ![Easy](https://img.shields.io/badge/Easy-green) |
-| [Delete Node in a BST](/DeleteNodeInBST/)                     | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| Binary Search (BST) | Difficulty | Tag |
+| ------------- | ------------- | --- |
+| [Search in a Binary Search Tree](/SearchInABinarySearchTree/) | ![Easy](https://img.shields.io/badge/Easy-green)      | LC75 |
+| [Delete Node in a BST](/DeleteNodeInBST/)                     | ![Medium](https://img.shields.io/badge/Medium-yellow) | LC75 |
 
 ## Graphs
-| Depth-First Search (DFS) | Difficulty |
-| ------------- | ------------- |
-| [Keys and Rooms](/KeysAndRooms/)                          | ![Medium](https://img.shields.io/badge/Medium-yellow) |
-| [Number of Provinces](/NumberOfProvinces/)                | ![Medium](https://img.shields.io/badge/Medium-yellow) |
-| [Reorder Routes to Make All Paths Lead to the City Zero](/ReorderRoutesToMakeAllPathsLeadToCityZero/) | ![Medium](https://img.shields.io/badge/Medium-yellow) |
-| [Evaluate Division](/EvaluateDivision/)                   | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| Depth-First Search (DFS) | Difficulty | Tag |
+| ------------- | ------------- | --- |
+| [Keys and Rooms](/KeysAndRooms/)                          | ![Medium](https://img.shields.io/badge/Medium-yellow) | LC75 |
+| [Number of Provinces](/NumberOfProvinces/)                | ![Medium](https://img.shields.io/badge/Medium-yellow) | LC75 |
+| [Reorder Routes to Make All Paths Lead to the City Zero](/ReorderRoutesToMakeAllPathsLeadToCityZero/) | ![Medium](https://img.shields.io/badge/Medium-yellow) | LC75 |
+| [Evaluate Division](/EvaluateDivision/)                   | ![Medium](https://img.shields.io/badge/Medium-yellow) | LC75 |
 
-| Breadth-First Search (BFS) | Difficulty |
-| ------------- | ------------- |
-| [Nearest Exit from Entrance in Maze](/NearestExitFromEntranceInMaze/) | ![Medium](https://img.shields.io/badge/Medium-yellow) |
-| [Rotting Oranges](/RottingOranges/)                                   | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| Breadth-First Search (BFS) | Difficulty | Tag |
+| ------------- | ------------- | --- |
+| [Nearest Exit from Entrance in Maze](/NearestExitFromEntranceInMaze/) | ![Medium](https://img.shields.io/badge/Medium-yellow) | LC75 |
+| [Rotting Oranges](/RottingOranges/)                                   | ![Medium](https://img.shields.io/badge/Medium-yellow) | LC75 |
 
 ## Heap / Priority Queue
-| Heap / Priority Queue | Difficulty |
-| ------------- | ------------- |
-| [Kth Largest Element in an Array](/KthLargestElementInAnArray/)   | ![Medium](https://img.shields.io/badge/Medium-yellow) |
-| [Smallest Number in Infinite Set](/SmallestNumberInInfiniteSet/)  | ![Medium](https://img.shields.io/badge/Medium-yellow) |
-| [Maximum Subsequence Score](/MaximumSubsequenceScore/)            | ![Medium](https://img.shields.io/badge/Medium-yellow)* |
-| [Total Cost to Hire K Workers](/TotalCostToHireKWorkers/)         | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| Heap / Priority Queue | Difficulty | Tag |
+| ------------- | ------------- | --- |
+| [Kth Largest Element in an Array](/KthLargestElementInAnArray/)   | ![Medium](https://img.shields.io/badge/Medium-yellow)     | LC75 |
+| [Smallest Number in Infinite Set](/SmallestNumberInInfiniteSet/)  | ![Medium](https://img.shields.io/badge/Medium-yellow)     | LC75 |
+| [Maximum Subsequence Score](/MaximumSubsequenceScore/)            | ![Medium](https://img.shields.io/badge/Medium-yellow)*    | LC75 |
+| [Total Cost to Hire K Workers](/TotalCostToHireKWorkers/)         | ![Medium](https://img.shields.io/badge/Medium-yellow)     | LC75 |
 
 ## Binary Search
-| Binary Search | Difficulty |
-| ------------- | ------------- |
-| [Guess Number Higher or Lower](/GuessNumberHigherOrLower/)                    | ![Easy](https://img.shields.io/badge/Easy-green) |
-| [Successful Pairs of Spells or Potions](/SuccessfulPairsOfSpellsAndPotions/)  | ![Medium](https://img.shields.io/badge/Medium-yellow) |
-| [Find Peak Element](/FindPeakElement/)                                        | ![Medium](https://img.shields.io/badge/Medium-yellow) |
-| [Koko Eating Bananas](/KokoEatingBananas/)                                    | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| Binary Search | Difficulty | Tag |
+| ------------- | ------------- | --- |
+| [Guess Number Higher or Lower](/GuessNumberHigherOrLower/)                    | ![Easy](https://img.shields.io/badge/Easy-green)      | LC75 |
+| [Successful Pairs of Spells or Potions](/SuccessfulPairsOfSpellsAndPotions/)  | ![Medium](https://img.shields.io/badge/Medium-yellow) | LC75 |
+| [Find Peak Element](/FindPeakElement/)                                        | ![Medium](https://img.shields.io/badge/Medium-yellow) | LC75 |
+| [Koko Eating Bananas](/KokoEatingBananas/)                                    | ![Medium](https://img.shields.io/badge/Medium-yellow) | LC75 |
 
 ## Backtracking
-| Backtracking | Difficulty |
-| ------------- | ------------- |
-| [Letter Combinations of a Phone Number](/LetterCombinationsOfAPhoneNumber/)   | ![Medium](https://img.shields.io/badge/Medium-yellow) |
-| [Combination Sum III](/CombinationSumIII/)                                    | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| Backtracking | Difficulty | Tag |
+| ------------- | ------------- | --- |
+| [Letter Combinations of a Phone Number](/LetterCombinationsOfAPhoneNumber/)   | ![Medium](https://img.shields.io/badge/Medium-yellow) | LC75 |
+| [Combination Sum III](/CombinationSumIII/)                                    | ![Medium](https://img.shields.io/badge/Medium-yellow) | LC75 |
 
 ## Dynamic Programming
-| 1 Dimensional | Difficulty |
-| ------------- | ------------- |
-| [Nth Tribonacci Number](/NthTribonacciNumber)         | ![Easy](https://img.shields.io/badge/Easy-green) |
-| [Min Cost Climbing Stairs](/MinCostClimbingStairs)    | ![Easy](https://img.shields.io/badge/Easy-green) |
-| [House Robber](/HouseRobber)                          | ![Medium](https://img.shields.io/badge/Medium-yellow) |
-| [Domino and Tromino Tiling](/DominoAndTrominoTiling)  | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| 1 Dimensional | Difficulty | Tag |
+| ------------- | ------------- | --- |
+| [Nth Tribonacci Number](/NthTribonacciNumber)         | ![Easy](https://img.shields.io/badge/Easy-green)      | LC75 |
+| [Min Cost Climbing Stairs](/MinCostClimbingStairs)    | ![Easy](https://img.shields.io/badge/Easy-green)      | LC75 |
+| [House Robber](/HouseRobber)                          | ![Medium](https://img.shields.io/badge/Medium-yellow) | LC75 |
+| [Domino and Tromino Tiling](/DominoAndTrominoTiling)  | ![Medium](https://img.shields.io/badge/Medium-yellow) | LC75 |
 
-| Multi Dimensional | Difficulty |
-| ------------- | ------------- |
-| [Unique Paths](/UniquePaths/)                                                                         | ![Medium](https://img.shields.io/badge/Medium-yellow) |
-| [Longest Common Subsequence](/LongestCommonSubsequence/)                                              | ![Medium](https://img.shields.io/badge/Medium-yellow) |
-| [Best Time to Buy and Sell Stock with Transaction Fee](/BestTimeToBuyAndSellStockWithTransactionFee/) | ![Medium](https://img.shields.io/badge/Medium-yellow)* |
-| [Edit Distance](/EditDistance/)                                                                       | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| Multi Dimensional | Difficulty | Tag |
+| ------------- | ------------- | --- |
+| [Unique Paths](/UniquePaths/)                                                                         | ![Medium](https://img.shields.io/badge/Medium-yellow)     | LC75 |
+| [Longest Common Subsequence](/LongestCommonSubsequence/)                                              | ![Medium](https://img.shields.io/badge/Medium-yellow)     | LC75 |
+| [Best Time to Buy and Sell Stock with Transaction Fee](/BestTimeToBuyAndSellStockWithTransactionFee/) | ![Medium](https://img.shields.io/badge/Medium-yellow)*    | LC75 |
+| [Edit Distance](/EditDistance/)                                                                       | ![Medium](https://img.shields.io/badge/Medium-yellow)     | LC75 |
 
 ## Bit Manipulation
-| Bit Manipulation | Difficulty |
-| ------------- | ------------- |
-| [Counting Bits](/CountingBits/)                                               | ![Easy](https://img.shields.io/badge/Easy-green) |
-| [Single Number](/SingleNumber/)                                               | ![Easy](https://img.shields.io/badge/Easy-green) |
-| [Minimum Flips to Make a OR b Equal to c](/MinimumFlipsToMakeAOrBEqualToC/)   | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| Bit Manipulation | Difficulty | Tag |
+| ------------- | ------------- | --- |
+| [Counting Bits](/CountingBits/)                                               | ![Easy](https://img.shields.io/badge/Easy-green)      | LC75 |
+| [Single Number](/SingleNumber/)                                               | ![Easy](https://img.shields.io/badge/Easy-green)      | LC75 |
+| [Minimum Flips to Make a OR b Equal to c](/MinimumFlipsToMakeAOrBEqualToC/)   | ![Medium](https://img.shields.io/badge/Medium-yellow) | LC75 |
 
 ## Trie
-| Trie | Difficulty |
-| ------------- | ------------- |
-| [Implement Trie (Prefix Tree)](/ImplementTrie/)       | ![Medium](https://img.shields.io/badge/Medium-yellow) |
-| [Search Suggestions System](/SearchSuggestionSystem/) | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| Trie | Difficulty | Tag |
+| ------------- | ------------- | --- |
+| [Implement Trie (Prefix Tree)](/ImplementTrie/)       | ![Medium](https://img.shields.io/badge/Medium-yellow) | LC75 |
+| [Search Suggestions System](/SearchSuggestionSystem/) | ![Medium](https://img.shields.io/badge/Medium-yellow) | LC75 |
 
 ## Intervals
-| Intervals | Difficulty |
-| ------------- | ------------- |
-| [Non-overlapping Intervals](/NonOverlappingIntervals/)                                | ![Medium](https://img.shields.io/badge/Medium-yellow) |
-| [Minimum Number of Arrows to Burst Balloons](/MinimumNumberOfArrowsToBurstBalloons/)  | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| Intervals | Difficulty | Tag |
+| ------------- | ------------- | --- |
+| [Non-overlapping Intervals](/NonOverlappingIntervals/)                                | ![Medium](https://img.shields.io/badge/Medium-yellow) | LC75 |
+| [Minimum Number of Arrows to Burst Balloons](/MinimumNumberOfArrowsToBurstBalloons/)  | ![Medium](https://img.shields.io/badge/Medium-yellow) | LC75 |
 
 ## Monotonic Stack
-| Monotonic Stack | Difficulty |
-| ------------- | ------------- |
-| [Daily Temperatures](/DailyTemperatures/)     | ![Medium](https://img.shields.io/badge/Medium-yellow) |
-| [Online Stock Span](/OnlineStockSpan/)        | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| Monotonic Stack | Difficulty | Tag |
+| ------------- | ------------- | --- |
+| [Daily Temperatures](/DailyTemperatures/)     | ![Medium](https://img.shields.io/badge/Medium-yellow) | LC75 |
+| [Online Stock Span](/OnlineStockSpan/)        | ![Medium](https://img.shields.io/badge/Medium-yellow) | LC75 |
 
 # Hard / Misc
 | LeetCode Hard | Difficulty |
