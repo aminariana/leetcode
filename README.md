@@ -19,6 +19,7 @@ Follow each problem link to to see its description, solution and explanation. Th
 | [Merge Sorted Array](/MergeSortedArray/)                                      | ![Easy](https://img.shields.io/badge/Easy-green)*     | Top150 |
 | [Remove Element](/RemoveElement/)                                             | ![Easy](https://img.shields.io/badge/Easy-green)      | Top150 |
 | [Remove Duplicates from Sorted Array I](/RemoveDuplicatesFromSortedArrayI/)   | ![Easy](https://img.shields.io/badge/Easy-green)      | Top150 |
+| [Remove Duplicates from Sorted Array II](/RemoveDuplicatesFromSortedArrayII/) | ![Medium](https://img.shields.io/badge/Medium-yellow) | Top150 |
 | [Product of Array Except Self](/ProductOfArrayExceptSelf/)                    | ![Medium](https://img.shields.io/badge/Medium-yellow) | LC75 |
 | [Increasing Triplet Subsequence](/IncreasingTripletsSubsequence/)             | ![Medium](https://img.shields.io/badge/Medium-yellow) | LC75 |
 | [Candy](/Candy)                                                               | ![Hard](https://img.shields.io/badge/Hard-red)        | Top150 |
