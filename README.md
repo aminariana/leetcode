@@ -12,23 +12,26 @@ Follow each problem link to to see its description, solution and explanation. Th
 
 # Problem category
 ## Array / String
-| Array / String  | Difficulty | Tag |
+| Array | Difficulty | Tag |
+| ------------- | ------------- | --- |
+| [Kids with the Greatest Number of Candies](/KidsWithCandies)              | ![Easy](https://img.shields.io/badge/Easy-green)      | LC75 |
+| [Can Place Flowers](/CanPlaceFlowers)                                     | ![Easy](https://img.shields.io/badge/Easy-green)      | LC75 |
+| [Merge Sorted Array](/MergeSortedArray/)                                  | ![Easy](https://img.shields.io/badge/Easy-green)*     | Top150 |
+| [Remove Element](/RemoveElement/)                                         | ![Easy](https://img.shields.io/badge/Easy-green)      | Top150 |
+| [Product of Array Except Self](/ProductOfArrayExceptSelf/)                | ![Medium](https://img.shields.io/badge/Medium-yellow) | LC75 |
+| [Increasing Triplet Subsequence](/IncreasingTripletsSubsequence/)         | ![Medium](https://img.shields.io/badge/Medium-yellow) | LC75 |
+| [Candy](/Candy)                                                           | ![Hard](https://img.shields.io/badge/Hard-red)        | Top150 |
+
+| String | Difficulty | Tag |
 | ------------- | ------------- | --- |
 | [Merge Strings Alternately](/MergeStringsAlternately/)                    | ![Easy](https://img.shields.io/badge/Easy-green)      | LC75 |
 | [Greatest Common Divisor of Strings](/GreatestCommonDivisorOfStrings/)    | ![Easy](https://img.shields.io/badge/Easy-green)*     | LC75 |
-| [Kids with the Greatest Number of Candies](/KidsWithCandies)              | ![Easy](https://img.shields.io/badge/Easy-green)      | LC75 |
-| [Can Place Flowers](/CanPlaceFlowers)                                     | ![Easy](https://img.shields.io/badge/Easy-green)      | LC75 |
 | [Reverse Vowels of a String](/ReverseVowelsOfAString/)                    | ![Easy](https://img.shields.io/badge/Easy-green)      | LC75 |
-| [Merge Sorted Array](/MergeSortedArray/)                                  | ![Easy](https://img.shields.io/badge/Easy-green)*     | Top150 |
-| [Remove Element](/RemoveElement/)                                         | ![Easy](https://img.shields.io/badge/Easy-green)      | Top150 |
 | [Reverse Words in a String](/ReverseWordsInAString/)                      | ![Medium](https://img.shields.io/badge/Medium-yellow) | LC75 |
-| [Product of Array Except Self](/ProductOfArrayExceptSelf/)                | ![Medium](https://img.shields.io/badge/Medium-yellow) | LC75 |
-| [Increasing Triplet Subsequence](/IncreasingTripletsSubsequence/)         | ![Medium](https://img.shields.io/badge/Medium-yellow) | LC75 |
 | [String Compression](/StringCompression)                                  | ![Medium](https://img.shields.io/badge/Medium-yellow) | LC75 |
-| [Candy](/Candy)                                                           | ![Hard](https://img.shields.io/badge/Hard-red)        | Top150 |
 
 ## Two Pointers
-| Two Pointers  | Difficulty | Tag |
+| Two Pointers | Difficulty | Tag |
 | ------------- | ------------- | --- |
 | [Move Zeroes](/MoveZeroes)                            | ![Easy](https://img.shields.io/badge/Easy-green)      | LC75 |
 | [Is Subsequence](/IsSubsequence)                      | ![Easy](https://img.shields.io/badge/Easy-green)      | LC75 |
