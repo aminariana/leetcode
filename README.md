@@ -24,7 +24,8 @@ Follow each problem link to to see its description, solution and explanation. Th
 | [Remove Duplicates from Sorted Array II](/RemoveDuplicatesFromSortedArrayII/) | ![Medium](https://img.shields.io/badge/Medium-yellow) | Top150 |
 | [Product of Array Except Self](/ProductOfArrayExceptSelf/)                    | ![Medium](https://img.shields.io/badge/Medium-yellow) | LC75 |
 | [Increasing Triplet Subsequence](/IncreasingTripletsSubsequence/)             | ![Medium](https://img.shields.io/badge/Medium-yellow) | LC75 |
-| [Candy](/Candy)                                                               | ![Hard](https://img.shields.io/badge/Hard-red)        | Top150 |
+| [Candy](/Candy/)                                                              | ![Hard](https://img.shields.io/badge/Hard-red)        | Top150 |
+| [Trapping Rain Water](/TrappingRainWater/)                                    | ![Hard](https://img.shields.io/badge/Hard-red)        | Top150 |
 
 | String | Difficulty | Tag |
 | ------------- | ------------- | --- |
@@ -191,7 +192,6 @@ Follow each problem link to to see its description, solution and explanation. Th
 | [Skyline](Skyline)                                            | ![Hard](https://img.shields.io/badge/Hard-red) |
 | [Sliding Window Maximum](SlidingWindowMaximum)                | ![Hard](https://img.shields.io/badge/Hard-red) |
 | [Sum Divisibles](SumDivisibles)                               | ![Hard](https://img.shields.io/badge/Hard-red) |
-| [Trapping Rain Water](TrappingRainWater)                      | ![Hard](https://img.shields.io/badge/Hard-red) |
 | [Wildcard Matching](WildcardMatching)                         | ![Hard](https://img.shields.io/badge/Hard-red) |
 
 # Legend
