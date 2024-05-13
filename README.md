@@ -5,7 +5,9 @@ A collection of LeetCode solutions to practice various programming languages, ma
 #### Problem set
 ![LeetCode+75](https://progress-bar.dev/100/?title=LeetCode+75&width=200)
 
-![Top+Interview+20+Hard](https://progress-bar.dev/5/?title=Top+Interview+20+Hard&width=200)
+![Top+Interview+150](https://progress-bar.dev/3/?title=Top+Interview+150&width=400)
+
+![Hard+20](https://progress-bar.dev/5/?title=Hard+20&width=200)
 
 #### Approach
 Follow each problem link to to see its description, solution and explanation. The solution may appear in multiple languages, just for fun.
