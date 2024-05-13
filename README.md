@@ -20,6 +20,7 @@ Follow each problem link to to see its description, solution and explanation. Th
 | [Can Place Flowers](/CanPlaceFlowers)                                     | ![Easy](https://img.shields.io/badge/Easy-green)      | LC75 |
 | [Reverse Vowels of a String](/ReverseVowelsOfAString/)                    | ![Easy](https://img.shields.io/badge/Easy-green)      | LC75 |
 | [Merge Sorted Array](/MergeSortedArray/)                                  | ![Easy](https://img.shields.io/badge/Easy-green)*     | Top150 |
+| [Remove Element](/RemoveElement/)                                         | ![Easy](https://img.shields.io/badge/Easy-green)      | Top150 |
 | [Reverse Words in a String](/ReverseWordsInAString/)                      | ![Medium](https://img.shields.io/badge/Medium-yellow) | LC75 |
 | [Product of Array Except Self](/ProductOfArrayExceptSelf/)                | ![Medium](https://img.shields.io/badge/Medium-yellow) | LC75 |
 | [Increasing Triplet Subsequence](/IncreasingTripletsSubsequence/)         | ![Medium](https://img.shields.io/badge/Medium-yellow) | LC75 |
