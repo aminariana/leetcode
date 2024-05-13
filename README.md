@@ -3,11 +3,11 @@
 A collection of LeetCode solutions to practice various programming languages, mainly `java` `python` sometimes `ruby` `kotlin`
 
 #### Problem set
-![LeetCode+75](https://progress-bar.dev/100/?title=LeetCode+75&width=200)
+![LeetCode+75](https://progress-bar.dev/100/?title=LeetCode+75&width=150)
 
-![Top+Interview+150](https://progress-bar.dev/3/?title=Top+Interview+150&width=400)
+![Top+Interview+150](https://progress-bar.dev/5/?title=Top+Interview+150&width=300)
 
-![Hard+20](https://progress-bar.dev/5/?title=Hard+20&width=200)
+![Hard+20](https://progress-bar.dev/5/?title=Hard+20&width=40)
 
 #### Approach
 Follow each problem link to to see its description, solution and explanation. The solution may appear in multiple languages, just for fun.
@@ -31,6 +31,8 @@ Follow each problem link to to see its description, solution and explanation. Th
 | [Merge Strings Alternately](/MergeStringsAlternately/)                    | ![Easy](https://img.shields.io/badge/Easy-green)      | LC75 |
 | [Greatest Common Divisor of Strings](/GreatestCommonDivisorOfStrings/)    | ![Easy](https://img.shields.io/badge/Easy-green)*     | LC75 |
 | [Reverse Vowels of a String](/ReverseVowelsOfAString/)                    | ![Easy](https://img.shields.io/badge/Easy-green)      | LC75 |
+| [Roman to Integer](/RomanToInteger/)                                      | ![Easy](https://img.shields.io/badge/Easy-green)      | Top150 |
+| [Integer to Roman](/IntegerToRoman/)                                      | ![Medium](https://img.shields.io/badge/Medium-yellow) | Top150 |
 | [Reverse Words in a String](/ReverseWordsInAString/)                      | ![Medium](https://img.shields.io/badge/Medium-yellow) | LC75 |
 | [String Compression](/StringCompression)                                  | ![Medium](https://img.shields.io/badge/Medium-yellow) | LC75 |
 
