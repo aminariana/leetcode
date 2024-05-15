@@ -100,7 +100,9 @@ class MultiThreadedCrawler(Crawler):
         return self.log
 
 
-class MockCrawler(MultiThreadedCrawler):
+# This can be substituted for testing, but makes the tests take longer because the current multi-threaded implementation relies on Queue timeout to end the life of the thread.
+# class MockCrawler(MultiThreadedCrawler):
+class MockCrawler(Crawler):
     def __init__(self, data: Dict[str, List[str]]):
         super().__init__()
         self.page_to_html = {}
