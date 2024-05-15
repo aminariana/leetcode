@@ -1,3 +1,4 @@
-pytest              # test framework
 flake8              # linter
+pytest              # test framework
+requests            # requests module for http get
 BeautifulSoup4      # html parser
