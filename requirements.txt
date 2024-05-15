@@ -1,2 +1,3 @@
 pytest              # test framework
 flake8              # linter
+BeautifulSoup4      # html parser
