@@ -47,9 +47,9 @@ Can you mock the Crawler from Part 1 in your tests in a way that it can prove yo
 
 **Hints**
 
-Part 1: Graph BFS
-Part 2: Multi-threading
-Part 3: Use mock inheritance
+- Part 1: Graph BFS
+- Part 2: Multi-threading
+- Part 3: Use mock inheritance
 
 **Comments**
 
