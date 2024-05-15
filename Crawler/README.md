@@ -39,7 +39,7 @@ class Crawler:
 
 **Part 2:**
 
-If you start with Wikipedia's main page and only go 2 levels deep, you will encounter thousands of pages which take a long time to process. How can you process them become much faster?
+If you start with Wikipedia's main page and only go 2 levels deep, you will encounter thousands of pages which take a long time to process. How can the way you process them become much faster? (Code it) -- What's the difference in the orders of complexities of part 1 vs 2?
 
 **Part 3**
 
@@ -53,6 +53,6 @@ Part 3: Use mock inheritance
 
 **Comments**
 
-Someone with a heavy Amazon / Java background asked this question with too much personal pre-occupation with the ability to jump into threading and understanding inheritance. Questions like this should be evaluated based on how you approach various sub-problems, not how quickly you can assume a pre-existing contract and solve for its requirements under time crunch. Those interviewers tend to be poor at gathering signal. Nevertheless, this question is a great exercise for gaining some confidence in your ability to multi-thread. Most of the gotchas on part 2 are in understanding thread-safety of Python's Queue, its `get` behavior, and the ability of threads to signal to each other whether some future work is still pending arrival despite the queue being temporarily empty.
+Someone with a heavy Amazon / Java background asked this question with too much pre-occupation with the ability to jump into threading and understanding pre-existing inheritance. Questions like this should be evaluated based on how you approach various sub-problems, not how quickly you can assume a pre-existing contract and solve for its requirements under time crunch. Those interviewers tend to be poor at gathering signal. Nevertheless, this question is a great exercise for gaining some confidence in your ability to multi-thread. Most of the gotchas on part 2 are in understanding thread-safety of Python's Queue, its `get` behavior, and the ability of threads to signal to each other whether some future work is still pending arrival despite the queue being temporarily empty.
 
 I did part 1 in 20 minutes and part 2 in >5 hours, YMMV.

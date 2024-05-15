@@ -66,6 +66,7 @@ class MultiThreadedCrawler(Crawler):
         def work(thread_id):
             print(f"Thread entered: {thread_id}")
             while not q.empty() or pending.is_set():
+                # assumption: not locking the q.get and pending.set in an atomic operation is okay for now due to scope (some threads may retire prematurely)
                 current_page, current_depth = q.get(timeout=timeout)
                 pending.set()
 
