@@ -1,6 +1,7 @@
 from collections.abc import Generator
-from queue import Queue
-from threading import Thread, Event
+from functools import cache
+from queue import Empty, Queue
+from threading import Thread
 from requests import get
 from bs4 import BeautifulSoup
 from collections import deque
@@ -16,6 +17,7 @@ class Crawler:
         You should call this at least once per unique page crawled."""
         self.log.append(message)
 
+    @cache
     def get_page_data(self, page_link: str) -> tuple[str, int]:
         """Returns the page data for a given link to a page and its http status code.
         e.g. get_page_data(“www.wikipedia.com”) -> HTML for Wikipedia's web page."""
@@ -56,41 +58,42 @@ class MultiThreadedCrawler(Crawler):
     def __init__(self):
         super().__init__()
 
-    def crawl(self, page, depth_max: int, thread_count: int = 1, timeout: int = 30):
+    def crawl(self, page, depth_max: int, visit_max: int = 0, thread_count: int = 1, timeout=5):
         q = Queue()
-        q.put((page, 0))
-        visited = set([page])
-        thread_pool = []
-        pending = Event()
+        visited = set()
 
         def work(thread_id):
             print(f"Thread entered: {thread_id}")
-            while not q.empty() or pending.is_set():
-                # assumption: not locking the q.get and pending.set in an atomic operation is okay for now due to scope (some threads may retire prematurely)
-                current_page, current_depth = q.get(timeout=timeout)
-                pending.set()
+            try:
+                while True:
+                    current_page, current_depth = q.get(timeout=timeout)
+                    visited.add(current_page)
 
-                print(
-                    f"thread_id: #{thread_id}, backlog: {q.qsize()}, depth {current_depth}\npage: {current_page}"
-                )
-                page_data, status_code = self.get_page_data(current_page)
-                self.process(current_page, page_data)
-                self.logger((current_page, status_code))
+                    print(
+                        f"thread_id: #{thread_id}, backlog: {q.qsize()}, visited: {len(visited)}, depth {current_depth}\npage: {current_page}"
+                    )
+                    page_data, status_code = self.get_page_data(current_page)
+                    self.process(current_page, page_data)
+                    self.logger((current_page, status_code))
 
-                if current_depth < depth_max:
-                    for link in self.get_links(page_data):
-                        if link not in visited:
-                            visited.add(link)
-                            q.put((link, current_depth + 1))
-                            print(f"\t#{thread_id} push: {link}")
-                pending.clear()
-            print(f"Thread exited: {thread_id}")
+                    if current_depth < depth_max and (not visit_max or len(visited) <= visit_max):
+                        for link in self.get_links(page_data):
+                            if link not in visited:
+                                visited.add(link)
+                                q.put((link, current_depth + 1))
+                                print(f"\t#{thread_id} push: {link}")
+                    q.task_done()
+            except Empty:
+                print(f"Thread exited on idle: {thread_id}")
 
+        q.put((page, 0))
+        thread_pool = []
         for thread_id in range(thread_count):
             thread = Thread(target=work, args=(thread_id,))
             thread.start()
             thread_pool.append(thread)
         print("Thread pool awaiting ...")
+        q.join()
         for thread in thread_pool:
             thread.join()
         print("Thread pool finished.")
@@ -130,7 +133,9 @@ def main():
     # crawler = Crawler()
     # crawler.crawl("https://www.wikipedia.com", 2)
     crawler = MultiThreadedCrawler()
-    crawler.crawl("https://www.wikipedia.com", depth_max=2, thread_count=100, timeout=30)
+    crawler.crawl(
+        "https://www.wikipedia.com", depth_max=2, visit_max=20, thread_count=10
+    )
     print(crawler.log)
 
 
