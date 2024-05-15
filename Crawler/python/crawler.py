@@ -58,33 +58,39 @@ class MultiThreadedCrawler(Crawler):
     def __init__(self):
         super().__init__()
 
-    def crawl(self, page, depth_max: int, visit_max: int = 0, thread_count: int = 1, timeout=5):
+    def crawl(self, page, depth_max: int, network_max: int = 0, thread_count: int = 1):
         q = Queue()
-        visited = set()
+        network = set()
 
         def work(thread_id):
             print(f"Thread entered: {thread_id}")
-            try:
-                while True:
-                    current_page, current_depth = q.get(timeout=timeout)
-                    visited.add(current_page)
+            while True:
+                current_page, current_depth = q.get()
+                if not current_page:
+                    exit_code = current_depth
+                    print(f"Thread #{thread_id} exit code #{exit_code}")
+                    return exit_code
 
-                    print(
-                        f"thread_id: #{thread_id}, backlog: {q.qsize()}, visited: {len(visited)}, depth {current_depth}\npage: {current_page}"
-                    )
-                    page_data, status_code = self.get_page_data(current_page)
-                    self.process(current_page, page_data)
-                    self.logger((current_page, status_code))
+                network.add(current_page)
 
-                    if current_depth < depth_max and (not visit_max or len(visited) <= visit_max):
-                        for link in self.get_links(page_data):
-                            if link not in visited:
-                                visited.add(link)
-                                q.put((link, current_depth + 1))
-                                print(f"\t#{thread_id} push: {link}")
-                    q.task_done()
-            except Empty:
-                print(f"Thread exited on idle: {thread_id}")
+                print(
+                    f"Thread #{thread_id} -> {current_page} (backlog: {q.qsize()}, network: {len(network)}, depth {current_depth})"
+                )
+                page_data, status_code = self.get_page_data(current_page)
+                self.process(current_page, page_data)
+                self.logger((current_page, status_code))
+
+                if current_depth < depth_max:
+                    for link in self.get_links(page_data):
+                        if link not in network and (
+                            not network_max or len(network) < network_max
+                        ):
+                            network.add(link)
+                            q.put((link, current_depth + 1))
+                            print(
+                                f"\t#{thread_id} push: {link} (network: {len(network)})"
+                            )
+                q.task_done()
 
         q.put((page, 0))
         thread_pool = []
@@ -95,14 +101,14 @@ class MultiThreadedCrawler(Crawler):
         print("Thread pool awaiting ...")
         q.join()
         for thread in thread_pool:
+            q.put((None, 0))  # Exit sentinel
+        for thread in thread_pool:
             thread.join()
         print("Thread pool finished.")
         return self.log
 
 
-# This can be substituted for testing, but makes the tests take longer because the current multi-threaded implementation relies on Queue timeout to end the life of the thread.
-# class MockCrawler(MultiThreadedCrawler):
-class MockCrawler(Crawler):
+class MockCrawler(MultiThreadedCrawler):
     def __init__(self, data: Dict[str, List[str]]):
         super().__init__()
         self.page_to_html = {}
@@ -136,7 +142,7 @@ def main():
     # crawler.crawl("https://www.wikipedia.com", 2)
     crawler = MultiThreadedCrawler()
     crawler.crawl(
-        "https://www.wikipedia.com", depth_max=2, visit_max=20, thread_count=10
+        "https://www.wikipedia.com", depth_max=2, network_max=20, thread_count=10
     )
     print(crawler.log)
 
