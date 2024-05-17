@@ -5,7 +5,7 @@ A collection of LeetCode solutions to practice various programming languages, ma
 #### Problem set
 ![LeetCode+75](https://progress-bar.dev/100/?title=LeetCode+75&width=150)
 
-![Top+Interview+150](https://progress-bar.dev/5/?title=Top+Interview+150&width=300)
+![Top+Interview+150](https://progress-bar.dev/6/?title=Top+Interview+150&width=300)
 
 ![Hard+20](https://progress-bar.dev/5/?title=Hard+20&width=40)
 
@@ -19,6 +19,7 @@ Follow each problem link to to see its description, solution and explanation. Th
 | [Kids with the Greatest Number of Candies](/KidsWithCandies)                  | ![Easy](https://img.shields.io/badge/Easy-green)      | LC75 |
 | [Can Place Flowers](/CanPlaceFlowers)                                         | ![Easy](https://img.shields.io/badge/Easy-green)      | LC75 |
 | [Merge Sorted Array](/MergeSortedArray/)                                      | ![Easy](https://img.shields.io/badge/Easy-green)*     | Top150 |
+| [Majority Element](/MajorityElement/)                                         | ![Easy](https://img.shields.io/badge/Easy-green)*     | Top150 |
 | [Remove Element](/RemoveElement/)                                             | ![Easy](https://img.shields.io/badge/Easy-green)      | Top150 |
 | [Remove Duplicates from Sorted Array I](/RemoveDuplicatesFromSortedArrayI/)   | ![Easy](https://img.shields.io/badge/Easy-green)      | Top150 |
 | [Remove Duplicates from Sorted Array II](/RemoveDuplicatesFromSortedArrayII/) | ![Medium](https://img.shields.io/badge/Medium-yellow) | Top150 |
