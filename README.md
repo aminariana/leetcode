@@ -7,7 +7,9 @@ A collection of LeetCode solutions to practice various programming languages, ma
 
 ![Top+Interview+150](https://progress-bar.dev/6/?title=Top+Interview+150&width=300)
 
-![Hard+20](https://progress-bar.dev/5/?title=Hard+20&width=40)
+![Hard+20](https://progress-bar.dev/5/?title=Hard+20&width=40) (Part of Top 150)
+
+![Real Interview](https://progress-bar.dev/100/?title=Real+Interview&width=40)
 
 #### Approach
 Follow each problem link to to see its description, solution and explanation. The solution may appear in multiple languages, just for fun.
@@ -116,6 +118,7 @@ Follow each problem link to to see its description, solution and explanation. Th
 | [Number of Provinces](/NumberOfProvinces/)                | ![Medium](https://img.shields.io/badge/Medium-yellow) | LC75 |
 | [Reorder Routes to Make All Paths Lead to the City Zero](/ReorderRoutesToMakeAllPathsLeadToCityZero/) | ![Medium](https://img.shields.io/badge/Medium-yellow) | LC75 |
 | [Evaluate Division](/EvaluateDivision/)                   | ![Medium](https://img.shields.io/badge/Medium-yellow) | LC75 |
+| [Spreadsheet](/Spreadsheet/)                              | ![Medium](https://img.shields.io/badge/Hard-red) | Real Interview |
 
 | Breadth-First Search (BFS) | Difficulty | Tag |
 | ------------- | ------------- | --- |
