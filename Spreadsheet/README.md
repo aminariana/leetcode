@@ -1,6 +1,6 @@
 # Spreadsheet
 
-![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow)
+![Hard](https://img.shields.io/badge/Difficulty-Hard-red)
 
 Make a Spreadsheet module that takes as input a matrix of inputs, and allows evaluation of a coordinate cell.
 
@@ -14,3 +14,6 @@ Make it work for:
 Instead of extending it for other operators, under time constraint can you avoid corner cases?
 
 What's the complexity and can it be optimized?
+
+Note:
+The difficulty level is decided based on the need to solve a combination of several types of problems under a fixed amount of time.
